@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "coordinated_care",
+    "front": "What is delegation in nursing practice?",
+    "back": "Delegation means transferring responsibility for a task to another qualified person while the delegating nurse keeps accountability for the outcome. The LPN can delegate certain tasks to unlicensed assistive personnel but cannot delegate nursing judgment."
+  },
+  {
+    "id": 2,
+    "domain": "coordinated_care",
+    "front": "Can an LPN/PN delegate tasks to a nursing assistant?",
+    "back": "Yes, an LPN/PN may delegate routine, stable tasks such as vital signs, bathing, and ambulation to a nursing assistant. The LPN/PN must first verify the task is within the assistant's training and the patient's condition is stable."
+  },
+  {
+    "id": 3,
+    "domain": "coordinated_care",
+    "front": "The Five Rights of Delegation",
+    "back": "Right task, right circumstance, right person, right direction and communication, and right supervision and evaluation. All five must be met for delegation to be considered safe."
+  },
+  {
+    "id": 4,
+    "domain": "coordinated_care",
+    "front": "Can an LPN/PN administer IV push medications?",
+    "back": "No, IV push medication administration is outside the scope of practice for most LPN/PNs and remains an RN or higher-level responsibility in nearly every state. The LPN/PN should check facility policy but should not perform this task without specific additional certification where allowed."
+  },
+  {
+    "id": 5,
+    "domain": "coordinated_care",
+    "front": "Can an LPN/PN administer blood products?",
+    "back": "No, initiating and administering blood or blood products is generally outside LPN/PN scope of practice and is reserved for the RN. The LPN/PN may monitor a stable patient during a transfusion per facility policy but does not start it."
+  },
+  {
+    "id": 6,
+    "domain": "coordinated_care",
+    "front": "Who performs the initial nursing assessment on admission?",
+    "back": "The RN performs the initial comprehensive admission assessment and develops the initial care plan. The LPN/PN contributes ongoing data collection and reports findings to the RN."
+  },
+  {
+    "id": 7,
+    "domain": "coordinated_care",
+    "front": "What is the LPN/PN's role in the nursing care plan?",
+    "back": "The LPN/PN implements and contributes to the established plan of care and reports changes in patient status. The LPN/PN does not independently initiate or finalize the original care plan, which is the RN's responsibility."
+  },
+  {
+    "id": 8,
+    "domain": "coordinated_care",
+    "front": "Define scope of practice.",
+    "back": "Scope of practice is the range of duties and responsibilities a licensed provider is legally permitted to perform, defined by state nurse practice acts and facility policy. Practicing outside scope can lead to license discipline and patient harm."
+  },
+  {
+    "id": 9,
+    "domain": "coordinated_care",
+    "front": "What governs LPN/PN scope of practice?",
+    "back": "Each state's Nurse Practice Act, enforced by the state board of nursing, defines what an LPN/PN may legally do. Scope also varies by facility policy and individual competency."
+  },
+  {
+    "id": 10,
+    "domain": "coordinated_care",
+    "front": "Which patient should the LPN/PN see first: stable postoperative patient or new-onset chest pain?",
+    "back": "The patient with new-onset chest pain is seen first because it signals a potentially life-threatening cardiac event. Use the ABC (airway, breathing, circulation) and stability framework when prioritizing."
+  },
+  {
+    "id": 11,
+    "domain": "coordinated_care",
+    "front": "What triage framework prioritizes airway, breathing, then circulation?",
+    "back": "The ABC framework, airway first, then breathing, then circulation, is used to identify which patient needs immediate attention. A compromised airway takes priority over a breathing problem, which takes priority over a circulation problem."
+  },
+  {
+    "id": 12,
+    "domain": "coordinated_care",
+    "front": "Maslow's hierarchy in prioritization: what comes first?",
+    "back": "Physiological needs such as oxygen, fluids, and nutrition come first, followed by safety, then love and belonging, then esteem, then self-actualization. A physiologic threat is prioritized before a psychosocial or safety concern."
+  },
+  {
+    "id": 13,
+    "domain": "coordinated_care",
+    "front": "What is the difference between acute and chronic when prioritizing care?",
+    "back": "An acute, sudden change in condition is prioritized over a chronic, stable condition because it represents a new or worsening threat. A patient who was fine an hour ago and is now confused needs urgent attention."
+  },
+  {
+    "id": 14,
+    "domain": "coordinated_care",
+    "front": "What is informed consent?",
+    "back": "Informed consent is a patient's voluntary agreement to a treatment after receiving information about the procedure, risks, benefits, and alternatives. The provider performing the procedure is responsible for obtaining consent, not the nurse."
+  },
+  {
+    "id": 15,
+    "domain": "coordinated_care",
+    "front": "What is the LPN/PN's role in the informed consent process?",
+    "back": "The LPN/PN may witness the patient's signature confirming identity and voluntary signing, and can reinforce information already explained by the provider. The LPN/PN does not explain risks, benefits, or alternatives, since that is the provider's legal duty."
+  },
+  {
+    "id": 16,
+    "domain": "coordinated_care",
+    "front": "What should the nurse do if a patient says they do not understand the consented procedure?",
+    "back": "The nurse should stop the process and notify the provider so further explanation can be given before the patient signs. Proceeding with an uninformed signature is not valid consent."
+  },
+  {
+    "id": 17,
+    "domain": "coordinated_care",
+    "front": "What is an advance directive?",
+    "back": "An advance directive is a legal document that states a person's wishes for medical treatment if they become unable to make decisions themselves. Types include a living will and a durable power of attorney for health care."
+  },
+  {
+    "id": 18,
+    "domain": "coordinated_care",
+    "front": "What is a durable power of attorney for health care?",
+    "back": "It is a legal document naming a health care proxy or surrogate to make medical decisions on the patient's behalf if they lose decision-making capacity. This differs from a living will, which states specific treatment wishes directly."
+  },
+  {
+    "id": 19,
+    "domain": "coordinated_care",
+    "front": "What is a living will?",
+    "back": "A living will is a written document that states what medical treatments a person does or does not want if they become terminally ill or permanently unconscious. It takes effect only when the person can no longer communicate their own wishes."
+  },
+  {
+    "id": 20,
+    "domain": "coordinated_care",
+    "front": "What is a DNR order?",
+    "back": "Do Not Resuscitate means cardiopulmonary resuscitation should not be performed if the patient's heart or breathing stops. It does not mean withholding all other treatment such as pain control, oxygen, or nutrition."
+  },
+  {
+    "id": 21,
+    "domain": "coordinated_care",
+    "front": "What law protects patient health information privacy in the US?",
+    "back": "HIPAA, the Health Insurance Portability and Accountability Act, sets national standards for protecting patients' medical records and personal health information. Violating HIPAA can result in disciplinary action and legal penalties."
+  },
+  {
+    "id": 22,
+    "domain": "coordinated_care",
+    "front": "Is it acceptable to discuss a patient's diagnosis with a family member without the patient's permission?",
+    "back": "No, protected health information should only be shared with those the patient has authorized, unless required for direct treatment coordination or by law. Sharing information with unauthorized family members violates HIPAA."
+  },
+  {
+    "id": 23,
+    "domain": "coordinated_care",
+    "front": "What is the minimum necessary standard under HIPAA?",
+    "back": "Staff should access, use, and disclose only the minimum amount of patient information needed to complete their specific job task. Looking up a patient's chart out of curiosity when not involved in their care violates this standard."
+  },
+  {
+    "id": 24,
+    "domain": "coordinated_care",
+    "front": "What is the chain of command?",
+    "back": "The chain of command is the hierarchy of authority within an organization that staff follow to report concerns or resolve problems, such as nurse to charge nurse to nurse manager to supervisor. It ensures issues are addressed at the appropriate level."
+  },
+  {
+    "id": 25,
+    "domain": "coordinated_care",
+    "front": "When should a nurse use the chain of command?",
+    "back": "When a concern is not resolved at the immediate level, such as a provider order that seems unsafe and the provider will not change it, the nurse should escalate through the chain of command. This protects both patient safety and the nurse's professional accountability."
+  },
+  {
+    "id": 26,
+    "domain": "coordinated_care",
+    "front": "What should the LPN/PN do if an order appears unsafe?",
+    "back": "The LPN/PN should question the order with the prescriber and refuse to carry it out until clarified. If the concern remains unresolved, the nurse should follow the chain of command to a supervisor."
+  },
+  {
+    "id": 27,
+    "domain": "coordinated_care",
+    "front": "What is an incident report?",
+    "back": "An incident report is an internal facility document used to record unexpected events such as falls, medication errors, or equipment problems. It is a quality improvement tool, not a permanent part of the patient's medical record."
+  },
+  {
+    "id": 28,
+    "domain": "coordinated_care",
+    "front": "Should an incident report be documented in the patient's chart?",
+    "back": "No, the fact that an incident report was filed should not be mentioned in the medical record, only the objective clinical facts of what happened. This keeps the two documents separate for legal purposes."
+  },
+  {
+    "id": 29,
+    "domain": "coordinated_care",
+    "front": "What should be included in an incident report?",
+    "back": "Objective facts about what happened, who was involved, the time, and any immediate actions taken should be included. Opinions, blame, or assumptions about cause should not be written in the report."
+  },
+  {
+    "id": 30,
+    "domain": "coordinated_care",
+    "front": "What is negligence?",
+    "back": "Negligence is a failure to act as a reasonably prudent person would in a similar situation, resulting in harm. It does not require intent to cause harm, only a departure from the expected standard of care."
+  },
+  {
+    "id": 31,
+    "domain": "coordinated_care",
+    "front": "What is malpractice?",
+    "back": "Malpractice is professional negligence committed by someone with specialized training, such as a nurse, that results in patient harm. It requires proving duty, breach of duty, causation, and actual damages."
+  },
+  {
+    "id": 32,
+    "domain": "coordinated_care",
+    "front": "What is assault in a legal nursing context?",
+    "back": "Assault is the threat or attempt to touch a person without their consent, causing them to fear harmful contact. Actual physical contact without consent is called battery."
+  },
+  {
+    "id": 33,
+    "domain": "coordinated_care",
+    "front": "What is battery in a legal nursing context?",
+    "back": "Battery is the actual unauthorized physical contact with a person, such as giving a treatment after the patient refused it. It differs from assault, which is only the threat of unwanted contact."
+  },
+  {
+    "id": 34,
+    "domain": "coordinated_care",
+    "front": "What is false imprisonment in nursing?",
+    "back": "False imprisonment is the unjustified restriction of a patient's freedom of movement, such as applying restraints without a valid order and proper indication. Even verbally threatening to restrain a patient without cause can constitute this."
+  },
+  {
+    "id": 35,
+    "domain": "coordinated_care",
+    "front": "What is defamation of character?",
+    "back": "Defamation is making a false statement about a person that damages their reputation. Slander is spoken defamation and libel is written defamation."
+  },
+  {
+    "id": 36,
+    "domain": "coordinated_care",
+    "front": "What is the difference between an intentional tort and negligence?",
+    "back": "An intentional tort, like assault or battery, involves a deliberate act meant to cause harm or a known risk of harm. Negligence involves an unintentional failure to provide the expected standard of care."
+  },
+  {
+    "id": 37,
+    "domain": "coordinated_care",
+    "front": "What is a sentinel event?",
+    "back": "A sentinel event is an unexpected occurrence involving death or serious physical or psychological injury unrelated to the natural course of the patient's illness. These events require a root cause analysis to prevent recurrence."
+  },
+  {
+    "id": 38,
+    "domain": "coordinated_care",
+    "front": "What is a mandatory reporter?",
+    "back": "A mandatory reporter is a professional who is legally required to report suspected abuse or neglect of children, older adults, or other vulnerable populations. Nurses are mandatory reporters in every state."
+  },
+  {
+    "id": 39,
+    "domain": "coordinated_care",
+    "front": "What is the LPN/PN's legal obligation if abuse is suspected?",
+    "back": "The LPN/PN must report suspected abuse or neglect to the appropriate authority, such as adult protective services or child protective services, per state law and facility policy. Failure to report can result in legal consequences for the nurse."
+  },
+  {
+    "id": 40,
+    "domain": "coordinated_care",
+    "front": "What is case management in nursing?",
+    "back": "Case management is the coordination of a patient's care across settings and providers to promote quality, cost-effective outcomes. It often involves connecting patients with resources such as home health, rehabilitation, or social services."
+  },
+  {
+    "id": 41,
+    "domain": "coordinated_care",
+    "front": "What is a referral in coordinated care?",
+    "back": "A referral is directing a patient to another provider or service, such as physical therapy or a social worker, for specialized care the current team cannot fully provide. The LPN/PN identifies the need and communicates it to the RN or provider for formal referral."
+  },
+  {
+    "id": 42,
+    "domain": "coordinated_care",
+    "front": "What is discharge planning?",
+    "back": "Discharge planning is the process of preparing a patient to safely transition out of a care setting, including education, follow-up appointments, and needed equipment or services. It should begin as early as possible during the admission."
+  },
+  {
+    "id": 43,
+    "domain": "coordinated_care",
+    "front": "Who typically leads the interdisciplinary care team?",
+    "back": "The RN or case manager typically coordinates the interdisciplinary team, which may include physicians, therapists, social workers, dietitians, and nursing staff. The LPN/PN contributes observations and updates to the team."
+  },
+  {
+    "id": 44,
+    "domain": "coordinated_care",
+    "front": "What is a variance in a clinical pathway?",
+    "back": "A variance is a deviation from the expected timeline or outcomes of a standardized care plan for a specific diagnosis. Variances should be documented and reported so the care plan can be adjusted."
+  },
+  {
+    "id": 45,
+    "domain": "coordinated_care",
+    "front": "What should the LPN/PN do when a patient's condition changes unexpectedly?",
+    "back": "The LPN/PN should assess the patient, notify the RN or provider promptly, and document the findings and actions taken. Timely reporting allows the care team to intervene before the situation worsens."
+  },
+  {
+    "id": 46,
+    "domain": "coordinated_care",
+    "front": "What is the SBAR communication tool?",
+    "back": "SBAR stands for Situation, Background, Assessment, Recommendation, a standardized format for reporting patient information clearly between staff. It helps ensure critical information is not omitted during handoff or urgent notification."
+  },
+  {
+    "id": 47,
+    "domain": "coordinated_care",
+    "front": "What is a change-of-shift report?",
+    "back": "A change-of-shift report is the handoff communication between outgoing and incoming staff summarizing patient status, treatments, and pending tasks. Accurate handoff reduces errors and supports continuity of care."
+  },
+  {
+    "id": 48,
+    "domain": "coordinated_care",
+    "front": "What is the purpose of a patient care conference?",
+    "back": "A patient care conference brings together the interdisciplinary team, and often the patient and family, to discuss goals and coordinate the treatment plan. It supports a shared understanding of care priorities."
+  },
+  {
+    "id": 49,
+    "domain": "coordinated_care",
+    "front": "What patient should be assessed first: one reporting new shortness of breath or one asking for a scheduled pain medication?",
+    "back": "The patient with new shortness of breath should be assessed first because a respiratory change may indicate a life-threatening problem. Scheduled, non-urgent requests can wait until the acute issue is addressed."
+  },
+  {
+    "id": 50,
+    "domain": "coordinated_care",
+    "front": "How should the LPN/PN prioritize care among multiple stable patients?",
+    "back": "The LPN/PN should assess the greatest actual or potential threat to life first, then move to less urgent needs. Time-sensitive medications and treatments should also be factored into the prioritization plan."
+  },
+  {
+    "id": 51,
+    "domain": "coordinated_care",
+    "front": "What is a HIPAA breach?",
+    "back": "A HIPAA breach is the unauthorized access, use, or disclosure of protected health information that compromises its privacy or security. Facilities must have a process to report and respond to breaches."
+  },
+  {
+    "id": 52,
+    "domain": "coordinated_care",
+    "front": "Can an LPN/PN look up a coworker's medical record out of curiosity?",
+    "back": "No, accessing any patient record without a legitimate care-related reason is a HIPAA violation, even if the person works at the same facility. This applies to coworkers, celebrities, and family members alike."
+  },
+  {
+    "id": 53,
+    "domain": "coordinated_care",
+    "front": "What is the standard of care?",
+    "back": "The standard of care is the level and type of care that a reasonably competent nurse with similar training would provide under similar circumstances. It is used as the benchmark in negligence and malpractice cases."
+  },
+  {
+    "id": 54,
+    "domain": "coordinated_care",
+    "front": "What is the purpose of a nurse practice act?",
+    "back": "A nurse practice act is state legislation that defines nursing scope of practice, licensure requirements, and grounds for disciplinary action. Each state has its own nurse practice act enforced by its board of nursing."
+  },
+  {
+    "id": 55,
+    "domain": "coordinated_care",
+    "front": "What tasks can an LPN/PN NOT delegate to unlicensed assistive personnel?",
+    "back": "The LPN/PN cannot delegate tasks requiring nursing judgment, assessment, teaching, or evaluation of care. Tasks such as medication administration and wound assessment generally remain with licensed staff."
+  },
+  {
+    "id": 56,
+    "domain": "coordinated_care",
+    "front": "What is supervision in the context of delegation?",
+    "back": "Supervision is the ongoing oversight of a delegated task, including providing direction and evaluating that the task was completed safely and correctly. The delegating nurse remains accountable for adequate supervision."
+  },
+  {
+    "id": 57,
+    "domain": "coordinated_care",
+    "front": "Who is accountable when a delegated task is done incorrectly?",
+    "back": "Both the person who performed the task and the nurse who delegated it can be held accountable, since the delegating nurse retains responsibility for appropriate delegation and supervision. Poor delegation choices are a nursing accountability issue."
+  },
+  {
+    "id": 58,
+    "domain": "coordinated_care",
+    "front": "What does the term autonomy mean in patient ethics?",
+    "back": "Autonomy is the ethical principle respecting a patient's right to make their own informed decisions about their care. A competent patient can refuse treatment even if the health care team disagrees."
+  },
+  {
+    "id": 59,
+    "domain": "coordinated_care",
+    "front": "What does the term beneficence mean in patient ethics?",
+    "back": "Beneficence is the ethical principle of acting in the best interest of the patient and promoting their well-being. It guides nurses to choose interventions that benefit the patient."
+  },
+  {
+    "id": 60,
+    "domain": "coordinated_care",
+    "front": "What does the term nonmaleficence mean in patient ethics?",
+    "back": "Nonmaleficence is the ethical principle of doing no harm to the patient. It requires weighing the risks and benefits of any intervention before acting."
+  },
+  {
+    "id": 61,
+    "domain": "coordinated_care",
+    "front": "What does the term justice mean in patient ethics?",
+    "back": "Justice is the ethical principle of treating patients fairly and distributing resources and care equitably. It means care decisions should not be based on bias or discrimination."
+  },
+  {
+    "id": 62,
+    "domain": "coordinated_care",
+    "front": "What does the term fidelity mean in patient ethics?",
+    "back": "Fidelity is the ethical principle of being faithful to commitments and keeping promises made to patients. It supports trust between the nurse and the patient."
+  },
+  {
+    "id": 63,
+    "domain": "coordinated_care",
+    "front": "What does the term veracity mean in patient ethics?",
+    "back": "Veracity is the ethical principle of being truthful and honest with patients about their condition and care. Withholding or distorting information violates this principle."
+  },
+  {
+    "id": 64,
+    "domain": "coordinated_care",
+    "front": "Can a competent adult patient refuse treatment?",
+    "back": "Yes, a competent adult has the legal right to refuse any treatment, even if refusal may lead to harm or death. The nurse should document the refusal and notify the provider."
+  },
+  {
+    "id": 65,
+    "domain": "coordinated_care",
+    "front": "What should the nurse do if a patient refuses a medication?",
+    "back": "The nurse should respect the patient's right to refuse, explain the risks of refusal, document the refusal and the education given, and notify the provider. The patient should never be forced to take medication against their will if competent."
+  },
+  {
+    "id": 66,
+    "domain": "coordinated_care",
+    "front": "What is an ethics committee used for in a health care facility?",
+    "back": "An ethics committee reviews complex or conflicting cases involving patient care decisions, such as end-of-life treatment disagreements. It provides guidance but does not make binding legal decisions."
+  },
+  {
+    "id": 67,
+    "domain": "coordinated_care",
+    "front": "What is a whistleblower in health care?",
+    "back": "A whistleblower is a staff member who reports unsafe, unethical, or illegal practices within an organization, often to an outside regulatory agency. Whistleblowers are generally protected from retaliation under law."
+  },
+  {
+    "id": 68,
+    "domain": "coordinated_care",
+    "front": "What is the purpose of a root cause analysis?",
+    "back": "A root cause analysis is a structured review process used after a sentinel event to identify the underlying system failures that led to the outcome. Its goal is to prevent similar events, not to assign blame to an individual."
+  },
+  {
+    "id": 69,
+    "domain": "coordinated_care",
+    "front": "What is a Good Samaritan law?",
+    "back": "A Good Samaritan law provides legal protection to health care providers who give reasonable emergency assistance outside of their normal work setting. It generally does not protect against gross negligence or willful misconduct."
+  },
+  {
+    "id": 70,
+    "domain": "coordinated_care",
+    "front": "What is patient advocacy?",
+    "back": "Patient advocacy is speaking up on behalf of the patient's rights, safety, and wishes, especially when the patient cannot do so themselves. It is a core nursing responsibility across all licensure levels."
+  },
+  {
+    "id": 71,
+    "domain": "coordinated_care",
+    "front": "What is the Patient Self-Determination Act?",
+    "back": "It is a federal law requiring health care facilities to inform patients of their right to make decisions about their medical care, including the right to create an advance directive. Facilities must ask patients on admission whether they have one."
+  },
+  {
+    "id": 72,
+    "domain": "coordinated_care",
+    "front": "What should the nurse do if a patient has no advance directive and becomes unable to make decisions?",
+    "back": "The health care team follows state law regarding surrogate decision-making, typically turning to a legally recognized next of kin or court-appointed guardian. Facility social work or case management can assist in this process."
+  },
+  {
+    "id": 73,
+    "domain": "coordinated_care",
+    "front": "Can family members override a competent patient's own treatment decisions?",
+    "back": "No, a competent patient's own wishes take priority over family members' opinions. Family input is only used for decision-making when the patient lacks capacity."
+  },
+  {
+    "id": 74,
+    "domain": "coordinated_care",
+    "front": "What is a POLST form?",
+    "back": "Physician Orders for Life-Sustaining Treatment is a medical order form, separate from an advance directive, that specifies a seriously ill patient's treatment wishes in an actionable, portable format. It travels with the patient across care settings."
+  },
+  {
+    "id": 75,
+    "domain": "coordinated_care",
+    "front": "What is the LPN/PN's role during a code or emergency?",
+    "back": "The LPN/PN assists the team by performing tasks within scope, such as chest compressions, obtaining supplies, or documenting the event, under RN or provider direction. The LPN/PN does not lead the code independently."
+  },
+  {
+    "id": 76,
+    "domain": "coordinated_care",
+    "front": "What is an occurrence report used for besides quality improvement?",
+    "back": "Occurrence reports help facilities identify patterns and trends in errors so systems can be improved to prevent repeat incidents. They also help track staff training and equipment needs."
+  },
+  {
+    "id": 77,
+    "domain": "coordinated_care",
+    "front": "What should be the nurse's first action after discovering a medication error?",
+    "back": "The nurse should first assess the patient for any adverse effects, then notify the provider and complete the required incident report. Patient safety comes before paperwork."
+  },
+  {
+    "id": 78,
+    "domain": "coordinated_care",
+    "front": "What is the purpose of a time out before a procedure?",
+    "back": "A time out is a final verification step before a procedure to confirm correct patient, correct site, and correct procedure. It is a safety check required by facility policy to prevent wrong-site or wrong-patient errors."
+  },
+  {
+    "id": 79,
+    "domain": "coordinated_care",
+    "front": "Who is responsible for verifying informed consent before a surgical procedure?",
+    "back": "The performing provider is responsible for obtaining informed consent, though the nurse may confirm the signed consent form is present in the chart before the procedure. If consent is missing or unclear, the procedure should not proceed."
+  },
+  {
+    "id": 80,
+    "domain": "coordinated_care",
+    "front": "What is an example of a task appropriate to delegate to a nursing assistant?",
+    "back": "Taking routine vital signs on a stable patient, assisting with hygiene, and ambulating a patient are appropriate delegated tasks. These do not require nursing judgment or assessment skills."
+  },
+  {
+    "id": 81,
+    "domain": "coordinated_care",
+    "front": "What is an example of a task inappropriate to delegate to a nursing assistant?",
+    "back": "Administering medication, teaching a patient about a new diagnosis, and assessing a wound are not appropriate to delegate. These require licensed nursing judgment."
+  },
+  {
+    "id": 82,
+    "domain": "coordinated_care",
+    "front": "What action should be taken if the LPN/PN is asked to perform a task outside their scope of practice?",
+    "back": "The LPN/PN should decline the task, explain that it is outside their scope, and notify the supervisor so it can be assigned to an appropriately licensed staff member. Performing the task anyway puts the license and patient safety at risk."
+  },
+  {
+    "id": 83,
+    "domain": "coordinated_care",
+    "front": "What is the purpose of the National Council of State Boards of Nursing (NCSBN)?",
+    "back": "The NCSBN is an organization that develops nursing licensure examinations, including the NCLEX-PN, and supports consistent nursing regulation across states. It does not itself license nurses, that authority remains with individual state boards."
+  },
+  {
+    "id": 84,
+    "domain": "coordinated_care",
+    "front": "What is the Nurse Licensure Compact?",
+    "back": "The Nurse Licensure Compact allows a nurse to hold one multistate license that permits practice in other compact member states without obtaining a separate license. Not all states participate in the compact."
+  },
+  {
+    "id": 85,
+    "domain": "coordinated_care",
+    "front": "What should the nurse document after a patient fall?",
+    "back": "The nurse should document the objective facts, such as time, location, patient condition, assessment findings, and interventions taken, and notify the provider. An incident report is also completed separately, outside the medical record."
+  },
+  {
+    "id": 86,
+    "domain": "coordinated_care",
+    "front": "What is triage in an emergency setting?",
+    "back": "Triage is the process of sorting patients by the urgency of their medical needs to determine the order in which they should be treated. Life-threatening conditions are treated before stable or minor conditions."
+  },
+  {
+    "id": 87,
+    "domain": "coordinated_care",
+    "front": "In a mass casualty event, which patients are prioritized under triage protocols?",
+    "back": "Patients who are salvageable with immediate intervention are prioritized over those who are already stable, those with minor injuries, and those unlikely to survive even with treatment. This is different from routine hospital prioritization."
+  },
+  {
+    "id": 88,
+    "domain": "coordinated_care",
+    "front": "What is the correct order of prioritization for a patient with airway obstruction versus one with high anxiety?",
+    "back": "The patient with airway obstruction is treated first because it is an immediate physiological threat to life. Anxiety, while distressing, does not pose the same immediate risk."
+  },
+  {
+    "id": 89,
+    "domain": "coordinated_care",
+    "front": "What is client-centered case management?",
+    "back": "It is an approach to coordinating care that focuses on the individual patient's specific needs, preferences, and goals across the continuum of care. It often involves a designated case manager coordinating multiple services."
+  },
+  {
+    "id": 90,
+    "domain": "coordinated_care",
+    "front": "What resource might a case manager arrange for a patient being discharged home with limited mobility?",
+    "back": "The case manager may arrange home health services, durable medical equipment, or physical therapy referrals to support the patient's safety at home. This planning should start before the day of discharge."
+  },
+  {
+    "id": 91,
+    "domain": "coordinated_care",
+    "front": "What is the role of a social worker on the interdisciplinary team?",
+    "back": "A social worker helps address psychosocial needs, financial resources, housing concerns, and connects patients to community services. The LPN/PN should refer concerns in these areas to the social worker or RN for coordination."
+  },
+  {
+    "id": 92,
+    "domain": "coordinated_care",
+    "front": "What should the LPN/PN do if a patient expresses suicidal ideation?",
+    "back": "The LPN/PN should stay with the patient, ensure a safe environment, and immediately notify the RN or provider for further evaluation. This is an urgent safety concern requiring prompt escalation."
+  },
+  {
+    "id": 93,
+    "domain": "coordinated_care",
+    "front": "What legal document allows a patient to designate someone to make financial, not medical, decisions?",
+    "back": "A general or financial power of attorney allows a designated person to handle financial matters, which is separate from a durable power of attorney for health care that covers medical decisions. These are two distinct legal documents."
+  },
+  {
+    "id": 94,
+    "domain": "coordinated_care",
+    "front": "What is the significance of a signed but unwitnessed consent form?",
+    "back": "An unwitnessed consent form may not meet legal requirements and should be corrected before the procedure, since witnessing confirms the patient's identity and voluntary signature. Facility policy determines exact witnessing requirements."
+  },
+  {
+    "id": 95,
+    "domain": "coordinated_care",
+    "front": "What should the nurse do if a language barrier prevents a patient from understanding consent information?",
+    "back": "The nurse should arrange for a qualified medical interpreter rather than relying on a family member or unqualified staff member. Accurate communication is essential for valid informed consent."
+  },
+  {
+    "id": 96,
+    "domain": "coordinated_care",
+    "front": "Why should a family member not be used as a medical interpreter for informed consent?",
+    "back": "A family member may not accurately translate medical terminology and may filter information based on personal bias, risking invalid consent. A trained medical interpreter should be used instead."
+  },
+  {
+    "id": 97,
+    "domain": "coordinated_care",
+    "front": "What is the LPN/PN's responsibility regarding incident reports involving another staff member's error?",
+    "back": "The LPN/PN should report what was objectively observed to the appropriate supervisor, following facility policy, without assigning blame in the documentation. Patient safety and accurate reporting take priority over personal loyalty."
+  },
+  {
+    "id": 98,
+    "domain": "coordinated_care",
+    "front": "What is the purpose of quality improvement (QI) programs in health care facilities?",
+    "back": "Quality improvement programs use collected data, including incident reports, to identify system problems and implement changes that improve patient safety and outcomes. Nurses contribute by reporting accurately and consistently."
+  },
+  {
+    "id": 99,
+    "domain": "coordinated_care",
+    "front": "What action should the LPN/PN take first when receiving a verbal order from a provider?",
+    "back": "The LPN/PN should follow facility policy for verbal orders, generally including a read-back and confirmation before implementing the order, and ensure it is documented and signed by the provider within the required time frame. Not all verbal orders can be legally accepted by an LPN/PN depending on state law."
+  },
+  {
+    "id": 100,
+    "domain": "coordinated_care",
+    "front": "What should the nurse do if two admission patients arrive at the same time and only one nurse is available?",
+    "back": "The nurse should quickly assess both patients briefly to identify who has the more urgent, potentially unstable condition, and prioritize that patient's care first. Delegation of stable tasks to available team members can help manage both."
+  },
+  {
+    "id": 101,
+    "domain": "coordinated_care",
+    "front": "What does the term unlicensed assistive personnel (UAP) mean?",
+    "back": "UAP refers to trained staff, such as nursing assistants, who are not licensed nurses but who perform delegated tasks under the supervision of a licensed nurse. Their scope is limited to tasks that do not require nursing judgment."
+  },
+  {
+    "id": 102,
+    "domain": "coordinated_care",
+    "front": "What is the difference between the RN's and LPN/PN's role in developing versus implementing care plans?",
+    "back": "The RN develops, revises, and evaluates the plan of care based on clinical judgment and comprehensive assessment. The LPN/PN implements the established plan and reports observations that may prompt the RN to update it."
+  },
+  {
+    "id": 103,
+    "domain": "coordinated_care",
+    "front": "What is a competent patient's right regarding treatment options?",
+    "back": "A competent patient has the right to be informed of all reasonable treatment options and to choose among them, including the option to refuse treatment entirely. This right is grounded in the ethical principle of autonomy."
+  },
+  {
+    "id": 104,
+    "domain": "coordinated_care",
+    "front": "When should the nurse contact the chain of command about a staffing concern?",
+    "back": "When staffing levels appear unsafe for the patient acuity and census, and the concern is not resolved at the unit level, the nurse should escalate through the chain of command to a supervisor or nursing administrator. Documentation of the concern and steps taken should follow facility policy."
+  },
+  {
+    "id": 105,
+    "domain": "coordinated_care",
+    "front": "What is the primary purpose of coordinated care in nursing practice?",
+    "back": "Coordinated care ensures that all members of the health care team communicate and work together so the patient receives safe, timely, and appropriate services across settings. It reduces duplication, gaps, and errors in the delivery of care."
+  },
+  {
+    "id": 106,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is the correct order for putting on PPE?",
+    "back": "Gown first, then mask or respirator, then goggles or face shield, then gloves. Gloves go on last so they cover the gown cuffs."
+  },
+  {
+    "id": 107,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is the correct order for removing PPE?",
+    "back": "Gloves first, then goggles or face shield, then gown, then mask last. Hand hygiene is performed immediately after removal."
+  },
+  {
+    "id": 108,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Define standard precautions.",
+    "back": "Standard precautions are infection control practices used for every patient regardless of diagnosis, including hand hygiene, gloves for contact with body fluids, and safe handling of sharps."
+  },
+  {
+    "id": 109,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "A client has C. difficile. Which precaution set is used and why?",
+    "back": "Contact precautions, because C. difficile spores are not reliably killed by alcohol-based hand rub. The nurse must wash hands with soap and water and wear gown and gloves."
+  },
+  {
+    "id": 110,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "List three diseases requiring airborne precautions.",
+    "back": "Tuberculosis, measles, and varicella (chickenpox) require airborne precautions with an N95 respirator and a negative pressure room."
+  },
+  {
+    "id": 111,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What PPE is required for droplet precautions?",
+    "back": "A surgical mask is worn when within about 3 feet of the client, along with gloves and gown as needed for contact with secretions."
+  },
+  {
+    "id": 112,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Name three conditions requiring droplet precautions.",
+    "back": "Influenza, pertussis, and bacterial meningitis all require droplet precautions in addition to standard precautions."
+  },
+  {
+    "id": 113,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is required for a client on airborne precautions who must leave their room for a procedure?",
+    "back": "The client wears a surgical mask during transport, and staff continue standard precautions. The receiving department is notified ahead of time."
+  },
+  {
+    "id": 114,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "When is the single most important time to perform hand hygiene?",
+    "back": "Before and after every client contact, even when gloves are worn, since gloves can develop tiny tears and hands can become contaminated during removal."
+  },
+  {
+    "id": 115,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: a nurse has visibly soiled hands after helping a client to the bathroom. What should she use?",
+    "back": "Soap and water, not alcohol-based hand rub, because alcohol rub does not remove visible soil or organic material."
+  },
+  {
+    "id": 116,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is the minimum recommended duration for handwashing with soap and water?",
+    "back": "At least 15 to 20 seconds of friction with soap and water covering all surfaces of the hands and wrists."
+  },
+  {
+    "id": 117,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Define surgical asepsis (sterile technique).",
+    "back": "Surgical asepsis is the complete elimination of all microorganisms, including spores, from an object or area. It is used for procedures like catheter insertion and wound dressing changes involving open tissue."
+  },
+  {
+    "id": 118,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is the border rule for a sterile field?",
+    "back": "The outer 1 inch (2.5 cm) edge of a sterile field is considered contaminated and nothing sterile should be placed there."
+  },
+  {
+    "id": 119,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: a sterile field becomes wet from spilled saline. What should the nurse do?",
+    "back": "The field must be considered contaminated because moisture allows microorganisms to wick through by strike-through contamination. The nurse should set up a new sterile field."
+  },
+  {
+    "id": 120,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "During a sterile procedure, should a nurse reach over a sterile field?",
+    "back": "No. Reaching over a sterile field risks contamination from clothing, hair, or dripping. Items should be approached from the side."
+  },
+  {
+    "id": 121,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is the proper way to dispose of a used needle?",
+    "back": "The needle is placed uncapped directly into a puncture-resistant sharps container immediately after use, without recapping, bending, or breaking it."
+  },
+  {
+    "id": 122,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: a nurse experiences a needlestick injury. What is the first action?",
+    "back": "Wash the area immediately with soap and water, then report the incident to the supervisor and follow facility exposure protocol, which may include testing and prophylaxis."
+  },
+  {
+    "id": 123,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What does the RACE acronym stand for in fire response?",
+    "back": "Rescue anyone in immediate danger, Alarm activate the fire alarm, Contain the fire by closing doors, Extinguish the fire if small or Evacuate if not."
+  },
+  {
+    "id": 124,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What does the PASS acronym stand for when using a fire extinguisher?",
+    "back": "Pull the pin, Aim at the base of the fire, Squeeze the handle, Sweep side to side."
+  },
+  {
+    "id": 125,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "During a fire, in what order should clients be evacuated?",
+    "back": "Ambulatory clients first, followed by wheelchair-dependent clients, then bedridden clients, with clients closest to the fire moved first regardless of mobility if in immediate danger."
+  },
+  {
+    "id": 126,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What type of fire extinguisher is used on an electrical fire?",
+    "back": "A Class C extinguisher, which uses a non-conductive agent, is used on electrical fires. Water-based extinguishers should never be used on electrical fires."
+  },
+  {
+    "id": 127,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What are the three requirements to legally apply a physical restraint?",
+    "back": "A current physician or provider order, documented less-restrictive measures tried first, and ongoing assessment and monitoring of the client while restrained."
+  },
+  {
+    "id": 128,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "How often must a client in a physical restraint be assessed?",
+    "back": "At least every 2 hours for circulation, skin integrity, range of motion, and need for continued restraint, though facility policy may require more frequent checks."
+  },
+  {
+    "id": 129,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: a confused client keeps pulling out their IV line. What should the LPN try before applying a restraint?",
+    "back": "Alternatives such as moving the client closer to the nurses' station, using a diversion activity, covering the IV site, or asking family to stay should be tried first and documented."
+  },
+  {
+    "id": 130,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "How should a restraint be tied to the bed frame?",
+    "back": "With a quick-release knot attached to the movable bed frame, never the side rail, so it can be released quickly in an emergency."
+  },
+  {
+    "id": 131,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Define a sentinel event.",
+    "back": "A sentinel event is an unexpected occurrence involving death or serious physical or psychological injury unrelated to the client's underlying condition, requiring immediate investigation."
+  },
+  {
+    "id": 132,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: an LPN gives a client the wrong dose of medication but the client has no ill effects. What should she do?",
+    "back": "Assess the client, notify the prescriber and supervisor, document the facts in the medical record, and complete a separate incident report that is not referenced in the chart."
+  },
+  {
+    "id": 133,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Should an incident report be mentioned in the client's medical record?",
+    "back": "No. The incident report is a separate quality improvement document. The medical record should only contain the objective facts of what happened and the care provided."
+  },
+  {
+    "id": 134,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What are the two client identifiers used before giving medication?",
+    "back": "Full name and date of birth, or full name and medical record number, checked against the medication administration record before every dose."
+  },
+  {
+    "id": 135,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is the most common cause of falls in older adults in a healthcare setting?",
+    "back": "Orthostatic hypotension, unfamiliar environment, impaired mobility, and certain medications such as sedatives and diuretics are common contributing causes."
+  },
+  {
+    "id": 136,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "List three fall prevention interventions for a hospitalized client.",
+    "back": "Keep the bed in the lowest position with wheels locked, ensure the call light is within reach, and use non-slip footwear during ambulation."
+  },
+  {
+    "id": 137,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: an older adult client is found on the floor after a fall. What should the LPN do first?",
+    "back": "Assess the client for injury before moving them, check vital signs, and notify the RN or provider. The fall must be documented and an incident report filed."
+  },
+  {
+    "id": 138,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is orthostatic hypotension and why does it increase fall risk?",
+    "back": "Orthostatic hypotension is a drop in blood pressure when standing up quickly, which can cause dizziness or fainting and lead to falls."
+  },
+  {
+    "id": 139,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "How does the LPN clean a spill of blood or body fluid?",
+    "back": "Don gloves, contain the spill, clean visible material, then disinfect the area with an EPA-approved disinfectant effective against bloodborne pathogens."
+  },
+  {
+    "id": 140,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is the purpose of a negative pressure isolation room?",
+    "back": "It prevents airborne pathogens from escaping into the hallway by keeping air pressure inside the room lower than outside, drawing contaminated air out through a filtered exhaust."
+  },
+  {
+    "id": 141,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Define nosocomial (healthcare-associated) infection.",
+    "back": "An infection acquired during the course of receiving treatment in a healthcare facility that was not present or incubating at admission."
+  },
+  {
+    "id": 142,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is the single most effective way to prevent the spread of healthcare-associated infections?",
+    "back": "Proper hand hygiene performed consistently by all staff before and after every client contact."
+  },
+  {
+    "id": 143,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: a client on contact precautions needs a wheelchair transport to radiology. What should the LPN do?",
+    "back": "Clean the wheelchair with disinfectant before and after use, and ensure the client's hands are clean or gloved as needed. Staff wear PPE per facility policy during transport handling."
+  },
+  {
+    "id": 144,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What home safety modification helps prevent falls for an older adult with poor vision?",
+    "back": "Adding nightlights, removing loose throw rugs, and improving lighting in hallways and stairways all reduce fall risk at home."
+  },
+  {
+    "id": 145,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Why should scatter rugs be removed from an older adult's home?",
+    "back": "Scatter rugs can slip or bunch underfoot and are a leading tripping hazard that increases fall risk for older adults."
+  },
+  {
+    "id": 146,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What water heater temperature setting helps prevent scald injuries at home?",
+    "back": "The water heater should be set no higher than 120\u00b0F (49\u00b0C) to reduce the risk of accidental scalding, especially for children and older adults."
+  },
+  {
+    "id": 147,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What should be checked monthly in a home with smoke and carbon monoxide detectors?",
+    "back": "The batteries and test function of both smoke and carbon monoxide detectors should be checked monthly, and batteries replaced at least once a year."
+  },
+  {
+    "id": 148,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: a client asks how to store medications safely from young grandchildren visiting the home. What should the LPN advise?",
+    "back": "Store all medications in a locked cabinet or container out of reach and sight of children, and never refer to medication as candy."
+  },
+  {
+    "id": 149,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Define the term reservoir in the chain of infection.",
+    "back": "The reservoir is the place where an infectious organism can live and multiply, such as a person, animal, water source, or contaminated surface."
+  },
+  {
+    "id": 150,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "List the six links in the chain of infection.",
+    "back": "Infectious agent, reservoir, portal of exit, mode of transmission, portal of entry, and susceptible host."
+  },
+  {
+    "id": 151,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "How can breaking the chain of infection at the mode of transmission link prevent illness?",
+    "back": "Hand hygiene, PPE, and proper cleaning of equipment interrupt the mode of transmission link, stopping the organism from reaching a new host."
+  },
+  {
+    "id": 152,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is a portal of entry?",
+    "back": "The portal of entry is the route by which an infectious organism enters a susceptible host, such as broken skin, mucous membranes, or the respiratory tract."
+  },
+  {
+    "id": 153,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: an LPN notices a client's IV dressing is soiled and loose. What is the priority action?",
+    "back": "Change the dressing using sterile technique to reduce infection risk at the insertion site, since a soiled or loose dressing no longer protects the site."
+  },
+  {
+    "id": 154,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What PPE is required when suctioning a client's airway?",
+    "back": "Gloves, mask, and eye protection or a face shield are required because suctioning can generate splashes of respiratory secretions."
+  },
+  {
+    "id": 155,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is the proper way to dispose of used PPE after leaving an isolation room?",
+    "back": "Remove PPE inside the doorway of the room, discard it in the designated waste container, and perform hand hygiene immediately before touching anything else."
+  },
+  {
+    "id": 156,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: a client on a ventilator develops a new fever and thick secretions. What infection should the LPN suspect?",
+    "back": "Ventilator-associated pneumonia. The LPN should notify the RN or provider and continue oral care and head-of-bed elevation to reduce further risk."
+  },
+  {
+    "id": 157,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "How does keeping the head of the bed elevated reduce infection risk in ventilated clients?",
+    "back": "Elevating the head of the bed to at least 30 degrees reduces the risk of aspiration of secretions into the lungs, lowering the risk of ventilator-associated pneumonia."
+  },
+  {
+    "id": 158,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is the correct method for disposing of a full sharps container?",
+    "back": "The container should be closed and replaced once it reaches the fill line marked on the container, then sent for proper biohazard disposal without being manually emptied or reused."
+  },
+  {
+    "id": 159,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: a client with active pulmonary tuberculosis needs to be moved to another unit. What must staff do?",
+    "back": "Place a surgical mask on the client for transport and notify the receiving unit in advance so an airborne isolation room is ready."
+  },
+  {
+    "id": 160,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is a bed alarm used for in fall prevention?",
+    "back": "A bed alarm alerts staff when a client attempts to get out of bed unassisted, allowing staff to respond quickly and reduce fall risk."
+  },
+  {
+    "id": 161,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Define chemical restraint.",
+    "back": "A chemical restraint is a medication used to control behavior or restrict movement that is not a standard treatment for the client's medical condition. It requires the same order and monitoring safeguards as a physical restraint."
+  },
+  {
+    "id": 162,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: a client's restraint order was written yesterday and has not been renewed. Can the LPN continue using the restraint?",
+    "back": "No. Restraint orders are time-limited per facility policy and must be renewed and reassessed regularly. An expired order means the restraint should be discontinued and reassessed."
+  },
+  {
+    "id": 163,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is the correct disposal method for a client's used disposable isolation gown?",
+    "back": "It is removed by breaking the neck ties then the waist ties, rolled inside out to contain contamination, and discarded in the designated waste receptacle in the room."
+  },
+  {
+    "id": 164,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is a fit test for an N95 respirator and why is it needed?",
+    "back": "A fit test confirms the respirator forms a proper seal on an individual's face so airborne particles cannot leak around the edges. It should be repeated at least annually or with facial changes."
+  },
+  {
+    "id": 165,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: a client asks why their private room door must stay closed. What should the LPN explain?",
+    "back": "The closed door helps contain airborne organisms and maintain the negative pressure needed to protect people outside the room from exposure."
+  },
+  {
+    "id": 166,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What is the priority nursing action if a client's oxygen tubing sparks near an open flame?",
+    "back": "Remove the oxygen source from the area immediately and extinguish any small flame, since oxygen supports rapid combustion and increases fire severity."
+  },
+  {
+    "id": 167,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Why should electrical equipment near an oxygen source be checked for frayed cords?",
+    "back": "Oxygen is highly combustible, so a spark from damaged electrical equipment near an oxygen source significantly raises the risk of a fire."
+  },
+  {
+    "id": 168,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: a client insists on smoking in their room despite having a home oxygen tank. What is the priority teaching?",
+    "back": "Explain that smoking near oxygen is a serious fire hazard because oxygen accelerates combustion, and smoking should only occur outside and away from the oxygen source."
+  },
+  {
+    "id": 169,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "What does it mean to report an error using a just culture approach?",
+    "back": "A just culture focuses on identifying system causes of errors rather than solely blaming the individual, encouraging honest reporting so processes can be improved."
+  },
+  {
+    "id": 170,
+    "domain": "safety_and_infection_prevention_and_control",
+    "front": "Scenario: an LPN almost gives a medication to the wrong client but catches the error before administration. Should this be reported?",
+    "back": "Yes. This is a near miss and should be reported through the facility's error reporting system so contributing factors can be identified and prevented in the future."
+  },
+  {
+    "id": 171,
+    "domain": "health_promotion_and_maintenance",
+    "front": "According to Erikson, what is the developmental task of infancy (birth to 18 months)?",
+    "back": "Trust versus mistrust. The infant learns to trust caregivers when needs for food, comfort, and safety are met consistently."
+  },
+  {
+    "id": 172,
+    "domain": "health_promotion_and_maintenance",
+    "front": "According to Erikson, what task defines toddlerhood (18 months to 3 years)?",
+    "back": "Autonomy versus shame and doubt. Toddlers gain independence through self-feeding, toileting, and making simple choices."
+  },
+  {
+    "id": 173,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What is Erikson's stage for the preschool years, ages 3 to 6?",
+    "back": "Initiative versus guilt. The child begins planning activities and asserting control over the environment through play."
+  },
+  {
+    "id": 174,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What is Erikson's stage for school-age children, roughly 6 to 12 years?",
+    "back": "Industry versus inferiority. The child develops competence through school, sports, and social tasks compared to peers."
+  },
+  {
+    "id": 175,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What developmental task does Erikson assign to adolescence?",
+    "back": "Identity versus role confusion. The teen works to form a personal identity separate from parents and among peer groups."
+  },
+  {
+    "id": 176,
+    "domain": "health_promotion_and_maintenance",
+    "front": "A toddler stacks 6 to 7 blocks and runs well. What age does this suggest?",
+    "back": "About 2 years old. Building a tower of 6 to 7 blocks and running with better coordination are typical 24-month milestones."
+  },
+  {
+    "id": 177,
+    "domain": "health_promotion_and_maintenance",
+    "front": "At what age does a healthy infant typically double their birth weight?",
+    "back": "By about 5 to 6 months of age. Birth weight usually triples by 12 months."
+  },
+  {
+    "id": 178,
+    "domain": "health_promotion_and_maintenance",
+    "front": "When does a healthy infant usually triple their birth weight?",
+    "back": "By around 12 months of age, assuming adequate nutrition and no underlying illness."
+  },
+  {
+    "id": 179,
+    "domain": "health_promotion_and_maintenance",
+    "front": "At what age does the anterior fontanel normally close?",
+    "back": "Between 12 and 18 months of age. The posterior fontanel closes much earlier, by about 2 months."
+  },
+  {
+    "id": 180,
+    "domain": "health_promotion_and_maintenance",
+    "front": "A mother says her baby babbles, sits without support, and passes toys hand to hand. What age fits?",
+    "back": "About 6 months. These are expected fine and gross motor and language milestones for a 6-month-old infant."
+  },
+  {
+    "id": 181,
+    "domain": "health_promotion_and_maintenance",
+    "front": "At what age does a child typically say their first single words with meaning?",
+    "back": "Around 12 months of age, along with waving bye-bye and standing alone briefly."
+  },
+  {
+    "id": 182,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What is object permanence, and when does it typically develop?",
+    "back": "Object permanence is understanding that an object still exists even when it cannot be seen. It usually develops between 4 and 8 months of age."
+  },
+  {
+    "id": 183,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What is the recommended age for a child's first dose of MMR vaccine?",
+    "back": "12 through 15 months of age, with the second dose given between 4 and 6 years."
+  },
+  {
+    "id": 184,
+    "domain": "health_promotion_and_maintenance",
+    "front": "When is the hepatitis B vaccine first given to a newborn?",
+    "back": "The first dose is typically given within 24 hours of birth, followed by additional doses in the following months."
+  },
+  {
+    "id": 185,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What live vaccines should generally be avoided during pregnancy?",
+    "back": "Live vaccines such as MMR and varicella should be avoided during pregnancy because of theoretical risk to the fetus."
+  },
+  {
+    "id": 186,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What vaccine is routinely recommended for pregnant women during each pregnancy?",
+    "back": "The Tdap vaccine is recommended during each pregnancy, ideally between 27 and 36 weeks gestation, to protect the newborn from pertussis."
+  },
+  {
+    "id": 187,
+    "domain": "health_promotion_and_maintenance",
+    "front": "A child receiving chemotherapy is due for a scheduled vaccine. What should the PN know?",
+    "back": "Live vaccines are contraindicated in immunocompromised children. The PN should notify the provider before administering any live vaccine in this situation."
+  },
+  {
+    "id": 188,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What is the normal fundal height in centimeters at 20 weeks gestation?",
+    "back": "About 20 centimeters. From about 20 to 34 weeks, fundal height in centimeters generally correlates with weeks of gestation."
+  },
+  {
+    "id": 189,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What is the recommended total weight gain for a pregnant woman with a normal prepregnancy BMI?",
+    "back": "About 25 to 35 pounds (11 to 16 kg) over the course of pregnancy."
+  },
+  {
+    "id": 190,
+    "domain": "health_promotion_and_maintenance",
+    "front": "Why is folic acid recommended before and during early pregnancy?",
+    "back": "Folic acid reduces the risk of neural tube defects such as spina bifida. It is most protective when taken before conception and during the first trimester."
+  },
+  {
+    "id": 191,
+    "domain": "health_promotion_and_maintenance",
+    "front": "A postpartum client's fundus is boggy and above the umbilicus. What should the PN do first?",
+    "back": "Massage the fundus to help it contract. A boggy fundus increases the risk of postpartum hemorrhage from uterine atony."
+  },
+  {
+    "id": 192,
+    "domain": "health_promotion_and_maintenance",
+    "front": "How many days after delivery should lochia rubra typically last?",
+    "back": "Lochia rubra, the bright red bloody discharge, typically lasts about 3 to 4 days before progressing to lochia serosa."
+  },
+  {
+    "id": 193,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What does it mean when a postpartum fundus is described as 'firm, midline, at U-2'?",
+    "back": "The fundus is well contracted, centered, and located two fingerbreadths below the umbilicus, which is an expected finding on postpartum day 2."
+  },
+  {
+    "id": 194,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What is the expected APGAR score range that indicates a newborn is in good condition?",
+    "back": "A score of 7 to 10 at 1 and 5 minutes after birth indicates the newborn is transitioning well and needs only routine care."
+  },
+  {
+    "id": 195,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What newborn reflex is checked by stroking the sole of the foot from heel to toe?",
+    "back": "The Babinski reflex. A normal newborn response is fanning of the toes, which is expected until about 12 months of age."
+  },
+  {
+    "id": 196,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What is the normal range for a full-term newborn's respiratory rate?",
+    "back": "About 30 to 60 breaths per minute, often irregular, with brief pauses that are normal if under 15 to 20 seconds."
+  },
+  {
+    "id": 197,
+    "domain": "health_promotion_and_maintenance",
+    "front": "A newborn's skin appears yellow on day 2 of life. What is the likely cause?",
+    "back": "Physiologic jaundice, caused by normal breakdown of excess fetal red blood cells and an immature liver. It usually appears after 24 hours of age."
+  },
+  {
+    "id": 198,
+    "domain": "health_promotion_and_maintenance",
+    "front": "Why is jaundice appearing within the first 24 hours of life considered concerning?",
+    "back": "Jaundice within the first 24 hours suggests pathologic jaundice, often from blood incompatibility or hemolysis, and needs prompt evaluation."
+  },
+  {
+    "id": 199,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What position is recommended for placing a healthy newborn to sleep?",
+    "back": "On the back, on a firm flat surface, with no loose bedding or soft toys, to reduce the risk of sudden infant death syndrome."
+  },
+  {
+    "id": 200,
+    "domain": "health_promotion_and_maintenance",
+    "front": "At what age should a toddler be moved from a crib to a bed for safety reasons?",
+    "back": "When the toddler can climb out of the crib, generally around 2 to 3 years of age, to prevent a fall injury."
+  },
+  {
+    "id": 201,
+    "domain": "health_promotion_and_maintenance",
+    "front": "According to Erikson, what is the developmental task of young adulthood?",
+    "back": "Intimacy versus isolation. The young adult works to form close, committed relationships with others."
+  },
+  {
+    "id": 202,
+    "domain": "health_promotion_and_maintenance",
+    "front": "According to Erikson, what task defines middle adulthood?",
+    "back": "Generativity versus stagnation. The middle-aged adult focuses on contributing to family, work, and community, or feels stuck if not."
+  },
+  {
+    "id": 203,
+    "domain": "health_promotion_and_maintenance",
+    "front": "According to Erikson, what is the final developmental stage in late adulthood?",
+    "back": "Ego integrity versus despair. The older adult reflects on life with a sense of satisfaction or with regret."
+  },
+  {
+    "id": 204,
+    "domain": "health_promotion_and_maintenance",
+    "front": "At what age is the first colorectal cancer screening generally recommended for average-risk adults?",
+    "back": "Beginning at age 45, using colonoscopy or another approved screening method, per current guidelines for average-risk adults."
+  },
+  {
+    "id": 205,
+    "domain": "health_promotion_and_maintenance",
+    "front": "How often should an average-risk woman begin routine mammogram screening, and at what age?",
+    "back": "Most guidelines recommend starting mammograms at age 40 to 50, then every 1 to 2 years, depending on individual risk factors."
+  },
+  {
+    "id": 206,
+    "domain": "health_promotion_and_maintenance",
+    "front": "At what age is a routine bone density (DEXA) screening generally recommended for women?",
+    "back": "Around age 65 for average-risk women, or earlier if risk factors for osteoporosis are present."
+  },
+  {
+    "id": 207,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What lifestyle factor is the single most modifiable risk factor for lung cancer and COPD?",
+    "back": "Tobacco smoking. Smoking cessation counseling is a key health promotion task for the PN with any client who smokes."
+  },
+  {
+    "id": 208,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What is the recommended minimum amount of moderate aerobic activity per week for most adults?",
+    "back": "At least 150 minutes of moderate-intensity aerobic activity per week, such as brisk walking, spread across most days."
+  },
+  {
+    "id": 209,
+    "domain": "health_promotion_and_maintenance",
+    "front": "A client asks about safe alcohol use. What is a key teaching point for older adults?",
+    "back": "Older adults metabolize alcohol more slowly and are at higher risk for falls and drug interactions, so intake should generally be lower than for younger adults."
+  },
+  {
+    "id": 210,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What growth pattern is normal for a child's weight during the toddler years compared to infancy?",
+    "back": "Weight gain slows considerably in toddlerhood compared to infancy, while height and motor skills continue to increase steadily."
+  },
+  {
+    "id": 211,
+    "domain": "health_promotion_and_maintenance",
+    "front": "A 4-year-old is learning to hop on one foot and draw a person with 3 parts. Is this expected?",
+    "back": "Yes. Hopping on one foot and drawing a simple person with a few body parts are typical fine and gross motor milestones for age 4."
+  },
+  {
+    "id": 212,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What is the term for the loss of a previously acquired developmental skill?",
+    "back": "Developmental regression. It can signal illness, stress, or a new sibling, and should be reported for further evaluation if persistent."
+  },
+  {
+    "id": 213,
+    "domain": "health_promotion_and_maintenance",
+    "front": "At what age does a child usually begin to show separation anxiety from a primary caregiver?",
+    "back": "Separation anxiety typically peaks between 9 and 18 months of age as the infant becomes attached to specific caregivers."
+  },
+  {
+    "id": 214,
+    "domain": "health_promotion_and_maintenance",
+    "front": "What screening test is routinely performed on all newborns before hospital discharge to check for hearing loss?",
+    "back": "The universal newborn hearing screening, using otoacoustic emissions or auditory brainstem response testing, done before discharge."
+  },
+  {
+    "id": 215,
+    "domain": "health_promotion_and_maintenance",
+    "front": "Why is a newborn metabolic screening blood test, such as for PKU, ideally done after the first feeding?",
+    "back": "Feeding introduces protein into the diet, which is needed for an accurate phenylalanine level on the PKU portion of the newborn screen."
+  },
+  {
+    "id": 216,
+    "domain": "psychosocial_integrity",
+    "front": "What is therapeutic communication?",
+    "back": "A purposeful way of interacting that helps a client express feelings and work through problems. The nurse uses active listening and open-ended questions rather than personal opinions or judgment."
+  },
+  {
+    "id": 217,
+    "domain": "psychosocial_integrity",
+    "front": "Define an open-ended question in therapeutic communication.",
+    "back": "A question that cannot be answered with a simple yes or no, such as 'How are you feeling about the surgery.' It encourages the client to share more detail."
+  },
+  {
+    "id": 218,
+    "domain": "psychosocial_integrity",
+    "front": "A client says 'I feel like nobody cares about me.' What is the best PN response?",
+    "back": "Reflect the feeling back, such as 'You feel alone right now.' This validates the client's emotion and invites further sharing instead of dismissing or arguing with it."
+  },
+  {
+    "id": 219,
+    "domain": "psychosocial_integrity",
+    "front": "What is the nontherapeutic technique of giving false reassurance?",
+    "back": "Telling a client 'everything will be fine' without knowing that for certain. It shuts down honest conversation and can make the client feel unheard."
+  },
+  {
+    "id": 220,
+    "domain": "psychosocial_integrity",
+    "front": "Why should a nurse avoid asking 'why' questions?",
+    "back": "'Why' questions can sound accusatory and put the client on the defensive. Asking 'what' or 'how' instead keeps the conversation open and nonjudgmental."
+  },
+  {
+    "id": 221,
+    "domain": "psychosocial_integrity",
+    "front": "What is silence used for in therapeutic communication?",
+    "back": "Purposeful silence gives the client time to think, process emotions, and decide what to say next. It shows the nurse is present without rushing the conversation."
+  },
+  {
+    "id": 222,
+    "domain": "psychosocial_integrity",
+    "front": "List the five stages of the Kubler-Ross grief model in order.",
+    "back": "Denial, anger, bargaining, depression, and acceptance. Clients do not always move through them in order and may skip or revisit stages."
+  },
+  {
+    "id": 223,
+    "domain": "psychosocial_integrity",
+    "front": "A client recently diagnosed with cancer says 'this must be a mistake, run the tests again.' Which grief stage is this?",
+    "back": "Denial. The client is refusing to accept the reality of the diagnosis as a way of protecting themselves emotionally."
+  },
+  {
+    "id": 224,
+    "domain": "psychosocial_integrity",
+    "front": "A dying client says 'if I can just make it to my daughter's wedding, I'll accept whatever comes after.' Which grief stage is this?",
+    "back": "Bargaining. The client is trying to negotiate more time or a better outcome, often with a higher power."
+  },
+  {
+    "id": 225,
+    "domain": "psychosocial_integrity",
+    "front": "What is anticipatory grief?",
+    "back": "Grief that begins before an expected loss actually occurs, such as a family grieving while a loved one is still dying. It allows some emotional preparation before the actual death."
+  },
+  {
+    "id": 226,
+    "domain": "psychosocial_integrity",
+    "front": "What is the difference between normal grief and complicated grief?",
+    "back": "Normal grief gradually lessens in intensity over time and allows the person to resume daily life. Complicated grief stays severe, prolonged, and interferes with functioning long after the loss."
+  },
+  {
+    "id": 227,
+    "domain": "psychosocial_integrity",
+    "front": "Define denial as a defense mechanism.",
+    "back": "Refusing to acknowledge a painful reality or fact, such as a person who continues smoking after a lung cancer diagnosis while insisting they are fine."
+  },
+  {
+    "id": 228,
+    "domain": "psychosocial_integrity",
+    "front": "Define projection as a defense mechanism.",
+    "back": "Attributing one's own unacceptable feelings or thoughts to another person, such as an angry client accusing the nurse of being angry with them."
+  },
+  {
+    "id": 229,
+    "domain": "psychosocial_integrity",
+    "front": "Define rationalization as a defense mechanism.",
+    "back": "Making excuses or creating logical-sounding reasons to justify unacceptable behavior or feelings, such as a student blaming a failed test on a noisy room instead of lack of study."
+  },
+  {
+    "id": 230,
+    "domain": "psychosocial_integrity",
+    "front": "Define displacement as a defense mechanism.",
+    "back": "Redirecting an emotion, often anger, from its true source onto a safer or less threatening target, such as yelling at a spouse after a bad day at work."
+  },
+  {
+    "id": 231,
+    "domain": "psychosocial_integrity",
+    "front": "Define regression as a defense mechanism.",
+    "back": "Returning to behaviors typical of an earlier stage of development when under stress, such as a hospitalized child who starts thumb-sucking again."
+  },
+  {
+    "id": 232,
+    "domain": "psychosocial_integrity",
+    "front": "Define compensation as a defense mechanism.",
+    "back": "Making up for a real or perceived weakness by excelling in another area, such as a student who struggles in sports but works extra hard to excel academically."
+  },
+  {
+    "id": 233,
+    "domain": "psychosocial_integrity",
+    "front": "Define sublimation as a defense mechanism.",
+    "back": "Channeling unacceptable impulses, often aggression, into a socially acceptable activity, such as a person with anger issues taking up boxing."
+  },
+  {
+    "id": 234,
+    "domain": "psychosocial_integrity",
+    "front": "Define reaction formation as a defense mechanism.",
+    "back": "Behaving in a way that is the exact opposite of one's true feelings, such as being overly kind to someone the person actually dislikes."
+  },
+  {
+    "id": 235,
+    "domain": "psychosocial_integrity",
+    "front": "Define repression as a defense mechanism.",
+    "back": "Unconsciously pushing painful or unwanted thoughts and memories out of awareness. Unlike suppression, this happens without the person intentionally choosing to do it."
+  },
+  {
+    "id": 236,
+    "domain": "psychosocial_integrity",
+    "front": "How is suppression different from repression?",
+    "back": "Suppression is a conscious, deliberate choice to set aside a thought or feeling for later. Repression is unconscious and the person is not aware they are avoiding the thought."
+  },
+  {
+    "id": 237,
+    "domain": "psychosocial_integrity",
+    "front": "What are common signs of alcohol withdrawal?",
+    "back": "Tremors, anxiety, sweating, elevated blood pressure and pulse, nausea, and insomnia, usually starting six to twenty-four hours after the last drink. Severe cases can progress to seizures or delirium tremens."
+  },
+  {
+    "id": 238,
+    "domain": "psychosocial_integrity",
+    "front": "What is delirium tremens (DTs) and why is it dangerous?",
+    "back": "A severe form of alcohol withdrawal marked by confusion, hallucinations, severe tremors, and autonomic instability. It can be life threatening and typically appears forty-eight to seventy-two hours after the last drink."
+  },
+  {
+    "id": 239,
+    "domain": "psychosocial_integrity",
+    "front": "What medication class is commonly used to manage alcohol withdrawal?",
+    "back": "Benzodiazepines, such as chlordiazepoxide or lorazepam, are used to reduce the risk of seizures and calm the nervous system during withdrawal."
+  },
+  {
+    "id": 240,
+    "domain": "psychosocial_integrity",
+    "front": "What are signs of opioid withdrawal?",
+    "back": "Yawning, runny nose, watery eyes, muscle aches, abdominal cramping, diarrhea, dilated pupils, and intense drug craving. It is very uncomfortable but rarely life threatening."
+  },
+  {
+    "id": 241,
+    "domain": "psychosocial_integrity",
+    "front": "What are signs of opioid overdose the PN must watch for?",
+    "back": "Slow or absent respirations, pinpoint pupils, and decreased level of consciousness. Naloxone is given to reverse the effects."
+  },
+  {
+    "id": 242,
+    "domain": "psychosocial_integrity",
+    "front": "What are signs of benzodiazepine withdrawal?",
+    "back": "Anxiety, insomnia, tremors, irritability, and in severe cases seizures. Because seizures can occur, benzodiazepines should always be tapered rather than stopped abruptly."
+  },
+  {
+    "id": 243,
+    "domain": "psychosocial_integrity",
+    "front": "What are signs of stimulant (cocaine or methamphetamine) intoxication?",
+    "back": "Elevated heart rate and blood pressure, dilated pupils, agitation, euphoria, and sometimes paranoia. Overdose can cause chest pain, seizures, or stroke."
+  },
+  {
+    "id": 244,
+    "domain": "psychosocial_integrity",
+    "front": "What is the crash phase after stimulant use?",
+    "back": "A period of extreme fatigue, depression, increased sleep, and intense craving that follows the high. It reflects the body's rebound after intense central nervous system stimulation."
+  },
+  {
+    "id": 245,
+    "domain": "psychosocial_integrity",
+    "front": "What physical signs suggest possible physical abuse in an adult client?",
+    "back": "Bruises or injuries in various healing stages, injuries that do not match the explanation given, and burns or bruises in patterns like a hand or belt shape. These findings should be documented objectively."
+  },
+  {
+    "id": 246,
+    "domain": "psychosocial_integrity",
+    "front": "What behavioral signs may suggest a client is a victim of abuse?",
+    "back": "Fear of a specific person, flinching when touched, reluctance to speak in front of a partner or caregiver, and inconsistent explanations of injuries."
+  },
+  {
+    "id": 247,
+    "domain": "psychosocial_integrity",
+    "front": "What is the PN's legal duty when child abuse or neglect is suspected?",
+    "back": "The nurse is a mandated reporter and must report the suspicion to the appropriate child protective services agency. The nurse does not need proof, only reasonable suspicion."
+  },
+  {
+    "id": 248,
+    "domain": "psychosocial_integrity",
+    "front": "What are signs of neglect in an older adult client?",
+    "back": "Poor hygiene, unexplained weight loss, dehydration, untreated pressure injuries, and unsafe or unsanitary living conditions. These findings should prompt further assessment and reporting."
+  },
+  {
+    "id": 249,
+    "domain": "psychosocial_integrity",
+    "front": "How should the PN interview a client suspected of being abused?",
+    "back": "Interview the client alone, away from the suspected abuser, in a private and calm setting. This allows the client to speak freely without fear of retaliation."
+  },
+  {
+    "id": 250,
+    "domain": "psychosocial_integrity",
+    "front": "What is the difference between coping and defense mechanisms?",
+    "back": "Coping mechanisms are conscious strategies used to manage stress, such as exercise or talking to a friend. Defense mechanisms are largely unconscious ways the mind protects itself from anxiety."
+  },
+  {
+    "id": 251,
+    "domain": "psychosocial_integrity",
+    "front": "Give an example of an adaptive coping strategy.",
+    "back": "Exercising, journaling, talking with a support person, or using relaxation techniques such as deep breathing. These reduce stress without causing harm."
+  },
+  {
+    "id": 252,
+    "domain": "psychosocial_integrity",
+    "front": "Give an example of a maladaptive coping strategy.",
+    "back": "Using alcohol, avoiding responsibilities entirely, or lashing out at others in anger. These may relieve stress briefly but cause harm over time."
+  },
+  {
+    "id": 253,
+    "domain": "psychosocial_integrity",
+    "front": "What is the general effect of chronic uncontrolled stress on the body?",
+    "back": "Chronic stress raises cortisol levels, which can suppress the immune system, raise blood pressure, and worsen conditions like ulcers, headaches, and insomnia."
+  },
+  {
+    "id": 254,
+    "domain": "psychosocial_integrity",
+    "front": "What is a manic episode in bipolar disorder?",
+    "back": "A period of abnormally elevated mood, high energy, decreased need for sleep, rapid speech, and impulsive behavior such as excessive spending. It can also include irritability rather than pure euphoria."
+  },
+  {
+    "id": 255,
+    "domain": "psychosocial_integrity",
+    "front": "What environment is best for a client experiencing mania?",
+    "back": "A calm, quiet, low-stimulation environment with structured activities. Overstimulation can worsen agitation and impulsivity."
+  },
+  {
+    "id": 256,
+    "domain": "psychosocial_integrity",
+    "front": "What are common signs of major depressive disorder?",
+    "back": "Persistent sad or empty mood, loss of interest in usual activities, changes in sleep and appetite, low energy, and difficulty concentrating for at least two weeks."
+  },
+  {
+    "id": 257,
+    "domain": "psychosocial_integrity",
+    "front": "What is the priority nursing action for a client expressing suicidal thoughts?",
+    "back": "Ask the client directly whether they have a plan and the means to carry it out, and ensure their immediate safety. A direct question does not increase suicide risk and provides critical information."
+  },
+  {
+    "id": 258,
+    "domain": "psychosocial_integrity",
+    "front": "What is a sudden lift in mood in a previously depressed client a warning sign of?",
+    "back": "It can signal the client has decided on a plan for suicide and now feels relief, so the risk for self harm may actually be higher, not lower."
+  },
+  {
+    "id": 259,
+    "domain": "psychosocial_integrity",
+    "front": "What are core symptoms of generalized anxiety disorder?",
+    "back": "Excessive, persistent worry about multiple areas of life lasting six months or more, along with restlessness, fatigue, muscle tension, and difficulty concentrating."
+  },
+  {
+    "id": 260,
+    "domain": "psychosocial_integrity",
+    "front": "What is a panic attack?",
+    "back": "A sudden episode of intense fear with physical symptoms such as chest pain, shortness of breath, sweating, and a feeling of impending doom, usually peaking within minutes."
+  },
+  {
+    "id": 261,
+    "domain": "psychosocial_integrity",
+    "front": "What is the PN's role during a client's panic attack?",
+    "back": "Stay with the client, speak in a calm and low voice, and guide slow breathing. Reducing environmental stimulation also helps the episode pass more comfortably."
+  },
+  {
+    "id": 262,
+    "domain": "psychosocial_integrity",
+    "front": "What are common positive symptoms of schizophrenia?",
+    "back": "Hallucinations, delusions, and disorganized thinking or speech. These are symptoms added to normal experience rather than taken away."
+  },
+  {
+    "id": 263,
+    "domain": "psychosocial_integrity",
+    "front": "What are common negative symptoms of schizophrenia?",
+    "back": "Flat affect, social withdrawal, reduced speech, and lack of motivation. These represent a loss or reduction of normal functioning."
+  },
+  {
+    "id": 264,
+    "domain": "psychosocial_integrity",
+    "front": "How should the PN respond to a client experiencing an auditory hallucination?",
+    "back": "Acknowledge that the client is hearing something real to them without agreeing that the voices are real, and gently redirect attention to reality, such as the present conversation."
+  },
+  {
+    "id": 265,
+    "domain": "psychosocial_integrity",
+    "front": "What is a delusion?",
+    "back": "A fixed, false belief that persists even when the person is presented with clear evidence against it, such as believing one is being watched by the government without any supporting evidence."
+  },
+  {
+    "id": 266,
+    "domain": "psychosocial_integrity",
+    "front": "What is the best approach when a client expresses a delusion?",
+    "back": "Do not argue with or reinforce the delusion. Instead, focus on the underlying feeling and gently redirect to reality-based topics."
+  },
+  {
+    "id": 267,
+    "domain": "psychosocial_integrity",
+    "front": "What are common features of post-traumatic stress disorder (PTSD)?",
+    "back": "Intrusive memories or flashbacks of a traumatic event, avoidance of reminders, negative changes in mood, and heightened arousal such as being easily startled."
+  },
+  {
+    "id": 268,
+    "domain": "psychosocial_integrity",
+    "front": "What is culturally competent care?",
+    "back": "Providing care that respects a client's cultural beliefs, values, and practices while still meeting their medical needs. It requires the nurse to ask about preferences rather than assume."
+  },
+  {
+    "id": 269,
+    "domain": "psychosocial_integrity",
+    "front": "Why should the PN avoid using a client's family member as a medical interpreter?",
+    "back": "Family members may filter, add opinions, or feel uncomfortable translating sensitive health information, which can affect accuracy and the client's privacy. A trained medical interpreter should be used instead."
+  },
+  {
+    "id": 270,
+    "domain": "psychosocial_integrity",
+    "front": "What is the difference between religion and spirituality in patient care?",
+    "back": "Religion refers to an organized system of beliefs and practices, while spirituality is a broader personal sense of meaning, purpose, or connection that may or may not involve organized religion."
+  },
+  {
+    "id": 271,
+    "domain": "psychosocial_integrity",
+    "front": "How should the PN support a client's spiritual needs in the hospital?",
+    "back": "Ask the client what spiritual or religious practices are important to them, and arrange access to clergy, prayer space, or specific rituals whenever possible, without imposing personal beliefs."
+  },
+  {
+    "id": 272,
+    "domain": "psychosocial_integrity",
+    "front": "What is somatic symptom disorder?",
+    "back": "A condition in which a person experiences real physical symptoms, such as pain or fatigue, that are strongly influenced by psychological distress rather than a fully explanatory medical cause."
+  },
+  {
+    "id": 273,
+    "domain": "psychosocial_integrity",
+    "front": "A client with a new colostomy avoids looking at the stoma. What psychosocial issue might this indicate?",
+    "back": "A disturbance in body image. The nurse should encourage gradual involvement in stoma care and provide emotional support as the client adjusts."
+  },
+  {
+    "id": 274,
+    "domain": "psychosocial_integrity",
+    "front": "What is the therapeutic communication technique of clarifying?",
+    "back": "Asking the client to explain or restate something that was unclear, such as 'Can you tell me more about what you mean by that.' It ensures the nurse accurately understands the client."
+  },
+  {
+    "id": 275,
+    "domain": "psychosocial_integrity",
+    "front": "What nontherapeutic technique involves the nurse sharing personal opinions or experiences unnecessarily?",
+    "back": "Giving unsolicited advice or self-disclosure shifts focus away from the client's feelings and onto the nurse. The conversation should stay centered on the client."
+  },
+  {
+    "id": 276,
+    "domain": "basic_care_and_comfort",
+    "front": "What diet texture is ordered for a client with mild dysphagia who tolerates thin liquids poorly?",
+    "back": "Nectar-thickened or honey-thickened liquids are typically ordered to slow the flow and reduce aspiration risk. The speech-language pathologist usually determines the exact thickness level needed."
+  },
+  {
+    "id": 277,
+    "domain": "basic_care_and_comfort",
+    "front": "Define orthostatic hypotension.",
+    "back": "A drop in blood pressure of at least 20 mmHg systolic or 10 mmHg diastolic within a few minutes of standing. It can cause dizziness or fainting, so the PN should have the client rise slowly and dangle legs first."
+  },
+  {
+    "id": 278,
+    "domain": "basic_care_and_comfort",
+    "front": "A client on a low-residue diet asks what to avoid. What foods should the PN mention?",
+    "back": "Raw fruits and vegetables, whole grains, nuts, and seeds should be avoided because they increase stool bulk and residue. This diet is often used after bowel surgery or during a bowel flare."
+  },
+  {
+    "id": 279,
+    "domain": "basic_care_and_comfort",
+    "front": "What is the purpose of anti-embolism (TED) stockings?",
+    "back": "They apply graduated compression to the legs to promote venous return and reduce the risk of deep vein thrombosis. They should be removed and reapplied at least once per shift to check skin condition."
+  },
+  {
+    "id": 280,
+    "domain": "basic_care_and_comfort",
+    "front": "How often should an immobile client be repositioned to prevent pressure injury?",
+    "back": "At least every 2 hours, and more often if skin redness develops or the client is at high risk. A written turning schedule helps ensure consistency among caregivers."
+  },
+  {
+    "id": 281,
+    "domain": "basic_care_and_comfort",
+    "front": "What does Fowler's position mean?",
+    "back": "The head of the bed is raised to 45 to 60 degrees with the knees slightly bent. It is commonly used for eating, breathing comfort, and after certain abdominal or cardiac procedures."
+  },
+  {
+    "id": 282,
+    "domain": "basic_care_and_comfort",
+    "front": "A client reports difficulty falling asleep in the hospital. Name two nonpharmacological measures the PN can offer.",
+    "back": "Dimming lights, reducing noise, offering a warm blanket, limiting daytime napping, and clustering nursing care to allow uninterrupted rest periods can all help. A back rub or warm beverage such as milk may also promote relaxation."
+  },
+  {
+    "id": 283,
+    "domain": "basic_care_and_comfort",
+    "front": "What is the correct technique for applying a condom catheter?",
+    "back": "Leave a small space between the tip of the penis and the catheter end, secure with the provided strip without wrapping too tightly, and connect to drainage tubing. Skin should be assessed regularly for irritation or constriction."
+  },
+  {
+    "id": 284,
+    "domain": "basic_care_and_comfort",
+    "front": "Define the term dysphagia.",
+    "back": "Dysphagia means difficulty swallowing. It increases the risk of aspiration and often requires diet texture modification and careful positioning during meals."
+  },
+  {
+    "id": 285,
+    "domain": "basic_care_and_comfort",
+    "front": "A client who had a stroke has left-sided weakness. Which side should lead when transferring out of bed?",
+    "back": "The strong, unaffected side should lead the movement. The PN stands on the client's weaker side to provide support and prevent falls."
+  },
+  {
+    "id": 286,
+    "domain": "basic_care_and_comfort",
+    "front": "What is the recommended position to reduce reflux symptoms after eating?",
+    "back": "The client should remain upright, sitting or in high Fowler's position, for at least 30 to 60 minutes after meals. Lying flat right after eating increases the chance of gastric contents refluxing into the esophagus."
+  },
+  {
+    "id": 287,
+    "domain": "basic_care_and_comfort",
+    "front": "What is the purpose of using a trapeze bar over a hospital bed?",
+    "back": "It allows a client with adequate upper body strength to reposition themselves independently by pulling up on the bar. This promotes mobility and reduces reliance on staff for simple position changes."
+  },
+  {
+    "id": 288,
+    "domain": "basic_care_and_comfort",
+    "front": "List two non-drug comfort measures for a client experiencing mild postoperative pain.",
+    "back": "Repositioning, applying a warm or cold pack as ordered, distraction with music or conversation, and guided relaxation breathing can all reduce perceived pain. These methods work well alongside prescribed pain medication."
+  },
+  {
+    "id": 289,
+    "domain": "basic_care_and_comfort",
+    "front": "What is a pureed diet and who commonly needs it?",
+    "back": "A pureed diet consists of foods blended to a smooth, pudding-like consistency with no lumps. It is often used for clients with severe swallowing difficulty or after certain oral or facial surgeries."
+  },
+  {
+    "id": 290,
+    "domain": "basic_care_and_comfort",
+    "front": "A bedbound client has not had a bowel movement in 3 days. What should the PN do first?",
+    "back": "Assess bowel sounds, abdominal distention, and last documented stool before notifying the provider. Increasing fluids, fiber, and activity within limits may also be considered as first-line measures."
+  },
+  {
+    "id": 291,
+    "domain": "basic_care_and_comfort",
+    "front": "Define the term contracture.",
+    "back": "A contracture is permanent shortening and tightening of a muscle, tendon, or joint due to prolonged immobility. Range-of-motion exercises help prevent this complication in immobile clients."
+  },
+  {
+    "id": 292,
+    "domain": "basic_care_and_comfort",
+    "front": "What is the correct way to assist a client with ambulation using a gait belt?",
+    "back": "The gait belt is placed snugly around the client's waist over clothing, and the caregiver grips it from underneath, walking slightly behind and to the side. This provides control if the client begins to fall."
+  },
+  {
+    "id": 293,
+    "domain": "basic_care_and_comfort",
+    "front": "What foods are typically restricted on a low-sodium diet?",
+    "back": "Processed and canned foods, cured meats, salty snacks, and added table salt are usually restricted. Fresh fruits, vegetables, and unprocessed proteins are generally allowed."
+  },
+  {
+    "id": 294,
+    "domain": "basic_care_and_comfort",
+    "front": "A client is receiving intermittent tube feedings. What position reduces aspiration risk during and after feeding?",
+    "back": "The head of the bed should be raised to at least 30 to 45 degrees during the feeding and for about an hour afterward. This helps gastric contents move downward instead of back up the esophagus."
+  },
+  {
+    "id": 295,
+    "domain": "basic_care_and_comfort",
+    "front": "What is the purpose of an incentive spirometer for a postoperative client?",
+    "back": "It encourages deep breathing to expand the lungs and prevent atelectasis and pneumonia. Clients should be reminded to use it every hour or two while awake."
+  },
+  {
+    "id": 296,
+    "domain": "basic_care_and_comfort",
+    "front": "Define active versus passive range of motion.",
+    "back": "Active range of motion is performed by the client independently, while passive range of motion is performed by the caregiver moving the client's joints. Passive ROM is used when the client cannot move the joint on their own."
+  },
+  {
+    "id": 297,
+    "domain": "basic_care_and_comfort",
+    "front": "What should the PN check before removing an indwelling urinary catheter?",
+    "back": "The balloon must be fully deflated using the syringe port before gentle removal to avoid urethral trauma. Intake and output should be monitored afterward to confirm the client voids within a reasonable time."
+  },
+  {
+    "id": 298,
+    "domain": "basic_care_and_comfort",
+    "front": "A client with limited mobility develops a reddened area over the sacrum that does not blanch. What stage pressure injury is this?",
+    "back": "This describes a Stage 1 pressure injury, intact skin with nonblanchable redness. Pressure relief and frequent repositioning are needed to prevent progression."
+  },
+  {
+    "id": 299,
+    "domain": "basic_care_and_comfort",
+    "front": "What is the primary benefit of early ambulation after surgery?",
+    "back": "Early ambulation promotes circulation, reduces the risk of deep vein thrombosis and pneumonia, and helps restore normal bowel and bladder function. It also helps prevent muscle weakness from prolonged bed rest."
+  },
+  {
+    "id": 300,
+    "domain": "basic_care_and_comfort",
+    "front": "Define the term dysuria.",
+    "back": "Dysuria is pain or burning during urination. It commonly signals a urinary tract infection and should be reported to the provider along with any associated fever or urgency."
+  },
+  {
+    "id": 301,
+    "domain": "basic_care_and_comfort",
+    "front": "What comfort measure helps relieve gas pain after abdominal surgery?",
+    "back": "Ambulating as soon as allowed, along with lying on the left side or applying gentle heat as ordered, can help move trapped gas along the natural direction of the colon toward the rectum. Peppermint tea or oral simethicone may also be used if ordered."
+  },
+  {
+    "id": 302,
+    "domain": "basic_care_and_comfort",
+    "front": "A client uses a walker. How should the PN instruct them to move it while walking?",
+    "back": "The walker should be moved forward first, then the client steps into it, keeping weight balanced through the arms and legs together. The client should never walk ahead of or lean too far over the walker."
+  },
+  {
+    "id": 303,
+    "domain": "basic_care_and_comfort",
+    "front": "What is the recommended frequency for oral hygiene in an unconscious client?",
+    "back": "Oral care should be performed every 2 hours to keep mucous membranes moist and prevent infection. The client should be positioned side-lying to reduce aspiration risk during care."
+  },
+  {
+    "id": 304,
+    "domain": "basic_care_and_comfort",
+    "front": "Define the term nocturia.",
+    "back": "Nocturia is the need to wake up at night to urinate more than once. It can disrupt sleep and may be caused by fluid intake timing, medications, or an underlying condition such as an enlarged prostate."
+  },
+  {
+    "id": 305,
+    "domain": "basic_care_and_comfort",
+    "front": "A client on bed rest asks why the PN keeps checking their heels. Why is this important?",
+    "back": "Heels are a common pressure injury site because they have little soft tissue cushioning over bone. Using pillows or heel protectors to float the heels off the mattress helps prevent skin breakdown."
+  },
+  {
+    "id": 306,
+    "domain": "basic_care_and_comfort",
+    "front": "What non-drug technique can help distract a child during a painful procedure?",
+    "back": "Blowing bubbles, using a favorite toy, singing, or having a parent talk calmly with the child can serve as effective distraction. These techniques reduce the perceived intensity of pain during the procedure."
+  },
+  {
+    "id": 307,
+    "domain": "basic_care_and_comfort",
+    "front": "Define the term dependent edema.",
+    "back": "Dependent edema is swelling that collects in the lowest parts of the body due to gravity, such as the feet and ankles when sitting. Elevating the limbs above heart level helps reduce this swelling."
+  },
+  {
+    "id": 308,
+    "domain": "basic_care_and_comfort",
+    "front": "What is the correct order for washing a client during a full bed bath?",
+    "back": "Wash from the cleanest area to the dirtiest, typically starting with the eyes and face, then arms, chest, abdomen, legs, and finally the perineal area last. This sequence prevents spreading microorganisms to cleaner body areas."
+  },
+  {
+    "id": 309,
+    "domain": "basic_care_and_comfort",
+    "front": "A client is on a fluid restriction. What should the PN teach about managing thirst?",
+    "back": "Sucking on ice chips, hard candy, or small sips spaced throughout the day can help manage thirst while staying within the fluid limit. All fluids and ice consumed should be counted in the total intake."
+  },
+  {
+    "id": 310,
+    "domain": "basic_care_and_comfort",
+    "front": "Define the term Sims' position.",
+    "back": "Sims' position is a side-lying position with the top leg flexed more than the bottom leg and the client leaning slightly forward. It is often used for rectal exams, enema administration, and unconscious clients to protect the airway."
+  },
+  {
+    "id": 311,
+    "domain": "basic_care_and_comfort",
+    "front": "What should the PN do before applying a heating pad to a client's lower back?",
+    "back": "Check the provider's order, verify the skin is intact, use a low or moderate setting, and place a barrier such as a towel between the pad and skin. The area should be checked every 10 to 15 minutes for redness or burns."
+  },
+  {
+    "id": 312,
+    "domain": "basic_care_and_comfort",
+    "front": "A client with dementia refuses to bathe. What approach might help?",
+    "back": "Breaking the task into smaller steps, using simple one-step directions, and choosing a time of day when the client is calmest can improve cooperation. Maintaining a familiar routine also reduces resistance."
+  },
+  {
+    "id": 313,
+    "domain": "basic_care_and_comfort",
+    "front": "Define the term urinary retention.",
+    "back": "Urinary retention is the inability to fully empty the bladder, which can lead to bladder distention and infection. Signs include a palpable bladder, small frequent voids, or no urine output despite fluid intake."
+  },
+  {
+    "id": 314,
+    "domain": "basic_care_and_comfort",
+    "front": "What is the benefit of a high-fiber diet for a client with constipation?",
+    "back": "Fiber adds bulk to stool and helps it move more easily through the intestines, reducing straining. It should be increased gradually along with adequate fluid intake to avoid gas and bloating."
+  },
+  {
+    "id": 315,
+    "domain": "basic_care_and_comfort",
+    "front": "A client needs to be log-rolled after spinal surgery. Why is this technique used?",
+    "back": "Log-rolling keeps the spine in straight alignment while turning the client, preventing twisting that could damage the surgical site. It usually requires two or more staff members to perform safely."
+  },
+  {
+    "id": 316,
+    "domain": "basic_care_and_comfort",
+    "front": "Define the term hemiparesis.",
+    "back": "Hemiparesis is weakness affecting one side of the body, often caused by stroke. The PN should place items and provide assistance on the client's stronger side while protecting the weaker side during transfers."
+  },
+  {
+    "id": 317,
+    "domain": "basic_care_and_comfort",
+    "front": "What comfort measure can help a client with dry mouth from limited oral intake?",
+    "back": "Frequent sips of water, ice chips, sugar-free gum or candy, and regular oral care with a moisturizing swab can relieve dry mouth. Petroleum jelly or lip balm can also protect cracked lips."
+  },
+  {
+    "id": 318,
+    "domain": "basic_care_and_comfort",
+    "front": "A client asks why they must wear sequential compression devices (SCDs) after surgery. What should the PN explain?",
+    "back": "SCDs intermittently inflate and deflate to squeeze the calves, promoting venous blood flow and reducing the risk of blood clots while the client is less mobile. They should be removed briefly during ambulation and skin checks."
+  },
+  {
+    "id": 319,
+    "domain": "basic_care_and_comfort",
+    "front": "Define the term residual urine.",
+    "back": "Residual urine is the amount of urine remaining in the bladder after voiding. A bladder scan or straight catheterization can measure it, and a high volume suggests incomplete bladder emptying."
+  },
+  {
+    "id": 320,
+    "domain": "basic_care_and_comfort",
+    "front": "What should the PN teach a client about proper body mechanics when lifting objects?",
+    "back": "Keep the object close to the body, bend at the knees rather than the waist, and keep the back straight while lifting with the leg muscles. A wide base of support also improves balance during the lift."
+  },
+  {
+    "id": 321,
+    "domain": "basic_care_and_comfort",
+    "front": "A client reports insomnia related to anxiety about an upcoming test. What nonpharmacological approach might help?",
+    "back": "Relaxation techniques such as deep breathing, guided imagery, or progressive muscle relaxation can reduce anxiety before sleep. Establishing a consistent bedtime routine also supports better rest."
+  },
+  {
+    "id": 322,
+    "domain": "basic_care_and_comfort",
+    "front": "Define the term aspiration precautions.",
+    "back": "Aspiration precautions are measures taken to prevent food, liquid, or secretions from entering the airway, such as upright positioning during meals, thickened liquids, and small bites. Suction equipment should be readily available for at-risk clients."
+  },
+  {
+    "id": 323,
+    "domain": "basic_care_and_comfort",
+    "front": "What is the purpose of a footboard or high-top sneakers for an immobile client?",
+    "back": "They help maintain the foot in a neutral position and prevent footdrop, which is permanent plantar flexion from prolonged immobility. Regular range-of-motion exercises to the ankle also help prevent this complication."
+  },
+  {
+    "id": 324,
+    "domain": "basic_care_and_comfort",
+    "front": "A client on a cardiac diet asks about fat intake. What guidance should the PN give?",
+    "back": "The client should limit saturated and trans fats, choosing lean proteins, low-fat dairy, and healthy fats such as olive oil in moderation. Fried foods and processed snacks high in saturated fat should be avoided."
+  },
+  {
+    "id": 325,
+    "domain": "basic_care_and_comfort",
+    "front": "Define the term postprandial.",
+    "back": "Postprandial refers to the period after eating a meal. Blood glucose checks or symptom monitoring, such as for reflux or dumping syndrome, are often timed postprandially."
+  },
+  {
+    "id": 326,
+    "domain": "pharmacological_therapies",
+    "front": "What are the Six Rights of medication administration?",
+    "back": "Right patient, right drug, right dose, right route, right time, and right documentation. Some frameworks add right reason and right response as extra checks."
+  },
+  {
+    "id": 327,
+    "domain": "pharmacological_therapies",
+    "front": "How many patient identifiers should be checked before giving a medication?",
+    "back": "At least two identifiers, such as full name and date of birth, checked against the medication administration record. A room number is never an acceptable identifier."
+  },
+  {
+    "id": 328,
+    "domain": "pharmacological_therapies",
+    "front": "A client asks why the nurse scans a wristband before every pill. What should the LPN explain?",
+    "back": "Scanning the wristband confirms the right patient is receiving the medication and helps prevent administration errors. It links the client directly to their electronic medication record."
+  },
+  {
+    "id": 329,
+    "domain": "pharmacological_therapies",
+    "front": "Define therapeutic drug level.",
+    "back": "The blood concentration range at which a medication produces its intended effect without causing toxicity. Levels are drawn to confirm dosing is safe and effective, especially for narrow-therapeutic-index drugs."
+  },
+  {
+    "id": 330,
+    "domain": "pharmacological_therapies",
+    "front": "What is the normal therapeutic serum level range for digoxin?",
+    "back": "0.5 to 2.0 ng/mL. Levels above this range increase the risk of digoxin toxicity, which can cause nausea, visual disturbances, and dangerous dysrhythmias."
+  },
+  {
+    "id": 331,
+    "domain": "pharmacological_therapies",
+    "front": "A client on digoxin reports seeing yellow-green halos around lights. What should the LPN do first?",
+    "back": "Hold the dose and report the finding to the RN or provider immediately, since visual halos are a classic sign of digoxin toxicity. The client should also be assessed for nausea and irregular heartbeat."
+  },
+  {
+    "id": 332,
+    "domain": "pharmacological_therapies",
+    "front": "What is the therapeutic range for serum lithium?",
+    "back": "0.6 to 1.2 mEq/L for maintenance therapy. Levels above 1.5 mEq/L put the client at risk for lithium toxicity, including tremor, confusion, and vomiting."
+  },
+  {
+    "id": 333,
+    "domain": "pharmacological_therapies",
+    "front": "What lab value should be monitored closely for a client taking warfarin?",
+    "back": "INR, or international normalized ratio, with a therapeutic target usually between 2.0 and 3.0 for most conditions. A very high INR raises the risk of bleeding."
+  },
+  {
+    "id": 334,
+    "domain": "pharmacological_therapies",
+    "front": "What lab value monitors heparin therapy?",
+    "back": "Activated partial thromboplastin time, or aPTT, which is typically kept at 1.5 to 2.5 times the normal control value during therapy. This shows the drug is thinning the blood within a safe range."
+  },
+  {
+    "id": 335,
+    "domain": "pharmacological_therapies",
+    "front": "Name a common antidote for warfarin overdose.",
+    "back": "Vitamin K, given orally or by injection depending on severity. It reverses the anticoagulant effect by restoring clotting factor production."
+  },
+  {
+    "id": 336,
+    "domain": "pharmacological_therapies",
+    "front": "Name the antidote used for heparin overdose.",
+    "back": "Protamine sulfate, which binds heparin and neutralizes its anticoagulant effect. It is given slowly under close monitoring."
+  },
+  {
+    "id": 337,
+    "domain": "pharmacological_therapies",
+    "front": "What is the antidote for acetaminophen overdose?",
+    "back": "Acetylcysteine, which protects the liver by replenishing glutathione stores. It works best when given within 8 to 10 hours of the overdose."
+  },
+  {
+    "id": 338,
+    "domain": "pharmacological_therapies",
+    "front": "What is the antidote for opioid overdose?",
+    "back": "Naloxone, which rapidly reverses respiratory depression by displacing opioids from their receptors. Repeat doses may be needed since naloxone wears off faster than many opioids."
+  },
+  {
+    "id": 339,
+    "domain": "pharmacological_therapies",
+    "front": "A client receiving an opioid has a respiratory rate of 8 breaths per minute. What should the LPN do?",
+    "back": "Hold the next dose and report the finding immediately, since a rate below 10 to 12 per minute signals respiratory depression. The client needs close monitoring and possible naloxone administration."
+  },
+  {
+    "id": 340,
+    "domain": "pharmacological_therapies",
+    "front": "What class of drugs commonly causes ototoxicity and nephrotoxicity?",
+    "back": "Aminoglycoside antibiotics, such as gentamicin. Clients on these drugs need peak and trough levels drawn, plus monitoring for hearing changes and rising creatinine."
+  },
+  {
+    "id": 341,
+    "domain": "pharmacological_therapies",
+    "front": "What is a common adverse effect of ACE inhibitors that patients should report?",
+    "back": "A persistent dry cough. ACE inhibitors can also cause angioedema, a rare but life-threatening swelling of the face, lips, or throat that requires immediate attention."
+  },
+  {
+    "id": 342,
+    "domain": "pharmacological_therapies",
+    "front": "What electrolyte imbalance is a major risk with loop diuretics like furosemide?",
+    "back": "Hypokalemia, or low potassium. The LPN should monitor for muscle weakness, leg cramps, and irregular heart rhythm, and report low potassium lab results."
+  },
+  {
+    "id": 343,
+    "domain": "pharmacological_therapies",
+    "front": "What electrolyte should be monitored closely in a client taking a potassium-sparing diuretic like spironolactone?",
+    "back": "Potassium, since these diuretics can cause hyperkalemia rather than hypokalemia. Bananas, oranges, and salt substitutes should be used cautiously."
+  },
+  {
+    "id": 344,
+    "domain": "pharmacological_therapies",
+    "front": "A client on a beta blocker has a heart rate of 48 beats per minute. What should the LPN do?",
+    "back": "Hold the dose and notify the RN or provider, since beta blockers can cause bradycardia. A heart rate below the parameter set by the provider, often 60, should always be reported before giving the drug."
+  },
+  {
+    "id": 345,
+    "domain": "pharmacological_therapies",
+    "front": "What is a key teaching point for clients starting a statin medication?",
+    "back": "Report any unexplained muscle pain, tenderness, or weakness, since this may signal myopathy or rhabdomyolysis. Liver function should also be monitored periodically."
+  },
+  {
+    "id": 346,
+    "domain": "pharmacological_therapies",
+    "front": "Define anaphylaxis as it relates to medication administration.",
+    "back": "A severe, rapid-onset allergic reaction that can cause airway swelling, difficulty breathing, and shock. It is a medical emergency requiring immediate epinephrine and emergency response."
+  },
+  {
+    "id": 347,
+    "domain": "pharmacological_therapies",
+    "front": "A client develops hives, wheezing, and facial swelling minutes after receiving an antibiotic. What is the priority LPN action?",
+    "back": "Stop the infusion immediately, call for help, and stay with the client while the RN and provider are notified. Airway and breathing are the priority in a suspected anaphylactic reaction."
+  },
+  {
+    "id": 348,
+    "domain": "pharmacological_therapies",
+    "front": "What adverse effect is a major concern with corticosteroids taken long term?",
+    "back": "Immunosuppression, along with hyperglycemia, weight gain, and bone thinning. Clients should never stop long-term steroid therapy abruptly."
+  },
+  {
+    "id": 349,
+    "domain": "pharmacological_therapies",
+    "front": "Why should corticosteroids never be discontinued abruptly?",
+    "back": "Sudden withdrawal can cause adrenal insufficiency because the body's own cortisol production has been suppressed. Doses must be tapered gradually under provider guidance."
+  },
+  {
+    "id": 350,
+    "domain": "pharmacological_therapies",
+    "front": "What lab value should be monitored in a client taking a first-generation sulfonylurea or metformin?",
+    "back": "Blood glucose, since these drugs are used to lower it and can cause hypoglycemia. Metformin also requires monitoring of kidney function before and during therapy."
+  },
+  {
+    "id": 351,
+    "domain": "pharmacological_therapies",
+    "front": "A diabetic client taking insulin becomes sweaty, shaky, and confused. What should the LPN suspect and do?",
+    "back": "Suspect hypoglycemia and check the blood glucose immediately. If the client can swallow, give a fast-acting carbohydrate such as juice or glucose tablets."
+  },
+  {
+    "id": 352,
+    "domain": "pharmacological_therapies",
+    "front": "What is the normal fasting blood glucose range used as a general reference in adults?",
+    "back": "About 70 to 100 mg/dL. Values below 70 mg/dL generally indicate hypoglycemia and require prompt treatment."
+  },
+  {
+    "id": 353,
+    "domain": "pharmacological_therapies",
+    "front": "Name a common adverse effect of first-generation antihistamines like diphenhydramine.",
+    "back": "Drowsiness and sedation. These drugs also carry anticholinergic effects such as dry mouth, blurred vision, and urinary retention, especially in older adults."
+  },
+  {
+    "id": 354,
+    "domain": "pharmacological_therapies",
+    "front": "What class of drugs is used to treat anaphylaxis first?",
+    "back": "Epinephrine, given intramuscularly, is the first-line treatment because it rapidly reverses airway swelling and low blood pressure. Antihistamines and steroids are given afterward as supportive therapy."
+  },
+  {
+    "id": 355,
+    "domain": "pharmacological_therapies",
+    "front": "What is a key nursing consideration before giving an NSAID like ibuprofen?",
+    "back": "Ask about a history of GI bleeding or ulcers, since NSAIDs increase the risk of stomach irritation and bleeding. They are usually given with food to reduce GI upset."
+  },
+  {
+    "id": 356,
+    "domain": "pharmacological_therapies",
+    "front": "A client taking phenytoin for seizures needs monitoring of which lab value?",
+    "back": "Serum phenytoin level, with a therapeutic range of about 10 to 20 mcg/mL. Levels outside this range can mean the seizures are not controlled or that toxicity is occurring."
+  },
+  {
+    "id": 357,
+    "domain": "pharmacological_therapies",
+    "front": "What sign suggests phenytoin toxicity?",
+    "back": "Nystagmus, ataxia, and slurred speech. Gum overgrowth, called gingival hyperplasia, is also a known long-term side effect that requires good oral hygiene."
+  },
+  {
+    "id": 358,
+    "domain": "pharmacological_therapies",
+    "front": "What is the therapeutic range for theophylline?",
+    "back": "About 10 to 20 mcg/mL. Levels above this range can cause nausea, tachycardia, and seizures, so blood levels are monitored regularly."
+  },
+  {
+    "id": 359,
+    "domain": "pharmacological_therapies",
+    "front": "How is dosage calculated using the formula method for oral medications?",
+    "back": "Desired dose divided by dose on hand, multiplied by the quantity or volume the drug comes in. This gives the amount to administer in tablets or milliliters."
+  },
+  {
+    "id": 360,
+    "domain": "pharmacological_therapies",
+    "front": "A provider orders 500 mg of a drug and the pharmacy supplies 250 mg tablets. How many tablets should be given?",
+    "back": "Two tablets. Dividing the desired dose of 500 mg by the available dose of 250 mg per tablet equals 2 tablets."
+  },
+  {
+    "id": 361,
+    "domain": "pharmacological_therapies",
+    "front": "How do you convert a client's weight from pounds to kilograms for a weight-based dose?",
+    "back": "Divide the weight in pounds by 2.2 to get kilograms. Weight-based dosing is common for pediatric clients and high-alert drugs."
+  },
+  {
+    "id": 362,
+    "domain": "pharmacological_therapies",
+    "front": "How is an IV flow rate calculated in drops per minute?",
+    "back": "Total volume in mL multiplied by the drop factor in gtt/mL, divided by the total time in minutes. This gives the rate the IV should be counted or set to infuse."
+  },
+  {
+    "id": 363,
+    "domain": "pharmacological_therapies",
+    "front": "What is the formula for calculating an IV pump rate in mL per hour?",
+    "back": "Total volume to infuse in mL divided by the total infusion time in hours. Most modern IV pumps are programmed directly in mL/hr."
+  },
+  {
+    "id": 364,
+    "domain": "pharmacological_therapies",
+    "front": "An order reads 1000 mL over 8 hours by IV pump. What rate in mL/hr should be programmed?",
+    "back": "125 mL/hr. Dividing the total volume of 1000 mL by 8 hours gives 125 mL per hour."
+  },
+  {
+    "id": 365,
+    "domain": "pharmacological_therapies",
+    "front": "Can an LPN independently start a blood transfusion in most jurisdictions?",
+    "back": "No, initiating and hanging blood products is generally outside LPN scope of practice and is performed by an RN. LPNs may monitor a stable transfusion once verified and initiated according to facility policy."
+  },
+  {
+    "id": 366,
+    "domain": "pharmacological_therapies",
+    "front": "Can an LPN administer IV push medications?",
+    "back": "In most jurisdictions, LPNs do not administer IV push medications, especially high-alert drugs, since this requires RN-level scope. LPN IV scope is typically limited to maintenance fluids and monitoring, per facility policy and state regulation."
+  },
+  {
+    "id": 367,
+    "domain": "pharmacological_therapies",
+    "front": "What should the LPN check before hanging a new IV fluid bag?",
+    "back": "Verify the order, check the solution and expiration date, inspect the bag for leaks or particles, and confirm the correct rate. The insertion site should also be assessed for signs of infiltration or infection."
+  },
+  {
+    "id": 368,
+    "domain": "pharmacological_therapies",
+    "front": "What are early signs of IV infiltration?",
+    "back": "Swelling, coolness, and pallor at the insertion site, along with slowed or stopped flow. The infusion should be stopped and the site assessed promptly."
+  },
+  {
+    "id": 369,
+    "domain": "pharmacological_therapies",
+    "front": "What are signs of phlebitis at an IV site?",
+    "back": "Redness, warmth, tenderness, and a palpable cord along the vein. The IV should be discontinued and a new site selected."
+  },
+  {
+    "id": 370,
+    "domain": "pharmacological_therapies",
+    "front": "Define IV infiltration.",
+    "back": "The leakage of non-vesicant IV fluid into the surrounding tissue instead of the vein. It causes swelling, coolness, and discomfort at the site."
+  },
+  {
+    "id": 371,
+    "domain": "pharmacological_therapies",
+    "front": "Define IV extravasation.",
+    "back": "The leakage of a vesicant, or tissue-damaging, medication into surrounding tissue. It can cause serious tissue injury and requires immediate intervention."
+  },
+  {
+    "id": 372,
+    "domain": "pharmacological_therapies",
+    "front": "What is the priority action if a client reports pain and swelling at an IV site during an infusion?",
+    "back": "Stop the infusion immediately and assess the site before doing anything else. The RN or provider should then be notified for further direction."
+  },
+  {
+    "id": 373,
+    "domain": "pharmacological_therapies",
+    "front": "What class of drugs commonly causes photosensitivity as a side effect?",
+    "back": "Tetracycline antibiotics, such as doxycycline. Clients should be taught to avoid prolonged sun exposure and use sunscreen while taking these drugs."
+  },
+  {
+    "id": 374,
+    "domain": "pharmacological_therapies",
+    "front": "Why should tetracycline not be given with dairy products or antacids?",
+    "back": "Calcium, magnesium, and other minerals bind to tetracycline and reduce its absorption. The drug should be taken on an empty stomach, separate from these products."
+  },
+  {
+    "id": 375,
+    "domain": "pharmacological_therapies",
+    "front": "What is a key adverse effect to monitor for with monoamine oxidase inhibitors, or MAOIs?",
+    "back": "Hypertensive crisis, which can occur when the drug is combined with tyramine-rich foods like aged cheese and cured meats. Clients need thorough dietary teaching."
+  },
+  {
+    "id": 376,
+    "domain": "pharmacological_therapies",
+    "front": "What is serotonin syndrome and which drug classes increase the risk?",
+    "back": "A potentially life-threatening reaction from too much serotonin activity, causing agitation, high fever, and muscle rigidity. It is a risk when SSRIs are combined with other serotonergic drugs like MAOIs or triptans."
+  },
+  {
+    "id": 377,
+    "domain": "pharmacological_therapies",
+    "front": "A client on an SSRI reports agitation, sweating, and muscle twitching. What should the LPN suspect?",
+    "back": "Possible serotonin syndrome, which needs to be reported immediately. This can occur when serotonergic medications are combined or doses are increased too quickly."
+  },
+  {
+    "id": 378,
+    "domain": "pharmacological_therapies",
+    "front": "What baseline assessment is important before giving an antihypertensive medication?",
+    "back": "Check the blood pressure and heart rate before administration and compare against the provider's set parameters. The dose should be held and reported if the client is outside the safe range."
+  },
+  {
+    "id": 379,
+    "domain": "pharmacological_therapies",
+    "front": "What common adverse effect should clients on iron supplements be taught about?",
+    "back": "Constipation and dark, tarry-colored stools, which is an expected and harmless effect of the iron itself. Clients should be encouraged to increase fluids and fiber to prevent constipation."
+  },
+  {
+    "id": 380,
+    "domain": "pharmacological_therapies",
+    "front": "How should liquid iron supplements be administered to prevent staining of teeth?",
+    "back": "Dilute the liquid and give it through a straw, then have the client rinse the mouth afterward. This limits direct contact between the iron and tooth enamel."
+  },
+  {
+    "id": 381,
+    "domain": "pharmacological_therapies",
+    "front": "What is a key safety concern with opioid analgesics beyond respiratory depression?",
+    "back": "Constipation, sedation, and risk of falls. Bowel regimens are often started proactively, and clients should be monitored for excessive drowsiness."
+  },
+  {
+    "id": 382,
+    "domain": "pharmacological_therapies",
+    "front": "Define polypharmacy and why it matters in medication safety.",
+    "back": "The use of multiple medications by one client, often five or more, which increases the risk of drug interactions and adverse effects. It is especially important to review in older adults."
+  },
+  {
+    "id": 383,
+    "domain": "pharmacological_therapies",
+    "front": "What should the LPN do if a medication error occurs?",
+    "back": "Assess the client's condition first, notify the RN or provider, and complete an incident report per facility policy. The error should never be hidden or omitted from documentation."
+  },
+  {
+    "id": 384,
+    "domain": "pharmacological_therapies",
+    "front": "What is the purpose of a medication reconciliation on admission and discharge?",
+    "back": "To compare the client's current medications against new orders to prevent omissions, duplications, or dangerous interactions. It helps ensure a safe and accurate medication list follows the client across care settings."
+  },
+  {
+    "id": 385,
+    "domain": "pharmacological_therapies",
+    "front": "What is the correct action if a client refuses a scheduled medication?",
+    "back": "Respect the client's right to refuse, document the refusal and the reason given, and notify the RN or provider as needed. Education about the medication's purpose should still be offered."
+  },
+  {
+    "id": 386,
+    "domain": "pharmacological_therapies",
+    "front": "Why is it important to document the time a medication was actually given, not just the scheduled time?",
+    "back": "Accurate timing supports correct dosing intervals and helps track therapeutic effects and adverse reactions. It also protects the LPN legally by showing exactly when care was provided."
+  },
+  {
+    "id": 387,
+    "domain": "pharmacological_therapies",
+    "front": "A client with a documented penicillin allergy is prescribed a cephalosporin. What should the LPN consider?",
+    "back": "Cephalosporins carry a risk of cross-reactivity with penicillin allergies, so the order should be verified with the RN or provider before administration. The client should be monitored closely if the drug is given."
+  },
+  {
+    "id": 388,
+    "domain": "pharmacological_therapies",
+    "front": "What is the purpose of checking peak and trough levels for certain antibiotics?",
+    "back": "The peak shows the highest drug concentration to confirm the dose is effective, and the trough shows the lowest level before the next dose to check for drug accumulation and toxicity risk."
+  },
+  {
+    "id": 389,
+    "domain": "pharmacological_therapies",
+    "front": "What should the LPN teach a client about taking oral bisphosphonates like alendronate?",
+    "back": "Take the medication first thing in the morning with a full glass of plain water on an empty stomach, then remain upright for at least 30 minutes. This reduces the risk of esophageal irritation."
+  },
+  {
+    "id": 390,
+    "domain": "pharmacological_therapies",
+    "front": "What is the priority nursing action before administering any high-alert medication such as insulin or an anticoagulant?",
+    "back": "Perform an independent double check with another qualified staff member per facility policy, verifying the dose, drug, and client. High-alert medications carry a greater risk of causing significant harm if given in error."
+  },
+  {
+    "id": 391,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal adult resting heart rate range?",
+    "back": "60 to 100 beats per minute. The LPN reports rates below 60 or above 100 unless the client has a known baseline outside that range."
+  },
+  {
+    "id": 392,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal adult respiratory rate range?",
+    "back": "12 to 20 breaths per minute at rest. Rates outside this range, especially with labored breathing, must be reported promptly."
+  },
+  {
+    "id": 393,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal adult blood pressure range?",
+    "back": "Approximately 90/60 mmHg to 120/80 mmHg. Consistent readings at or above 130/80 mmHg suggest hypertension and should be reported per facility protocol."
+  },
+  {
+    "id": 394,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal oral body temperature?",
+    "back": "About 36.5 to 37.5 degrees Celsius (97.7 to 99.5 degrees Fahrenheit). A temperature above 38 degrees Celsius (100.4 degrees Fahrenheit) is considered a fever."
+  },
+  {
+    "id": 395,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal pulse oximetry (SpO2) reading?",
+    "back": "95 percent to 100 percent on room air. A reading below 90 percent is an urgent finding that must be reported immediately."
+  },
+  {
+    "id": 396,
+    "domain": "reduction_of_risk_potential",
+    "front": "What counts as a fever in an adult client?",
+    "back": "An oral temperature at or above 38 degrees Celsius (100.4 degrees Fahrenheit). New fever in a postoperative or immunocompromised client should always be reported."
+  },
+  {
+    "id": 397,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal serum sodium range?",
+    "back": "135 to 145 mEq/L. Values outside this range can cause confusion, seizures, or muscle weakness and should be reported to the RN."
+  },
+  {
+    "id": 398,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal serum potassium range?",
+    "back": "3.5 to 5.0 mEq/L. Both high and low potassium can cause dangerous cardiac dysrhythmias, so abnormal values are always reported."
+  },
+  {
+    "id": 399,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal fasting blood glucose range?",
+    "back": "70 to 100 mg/dL. Values below 70 mg/dL indicate hypoglycemia and values above 100 mg/dL fasting suggest impaired glucose regulation."
+  },
+  {
+    "id": 400,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal hemoglobin range for an adult male?",
+    "back": "About 13.5 to 17.5 g/dL. Lower values suggest anemia, which can cause fatigue, pallor, and shortness of breath."
+  },
+  {
+    "id": 401,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal hemoglobin range for an adult female?",
+    "back": "About 12.0 to 15.5 g/dL. A drop from baseline after surgery or bleeding should be reported right away."
+  },
+  {
+    "id": 402,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal platelet count range?",
+    "back": "150,000 to 400,000 per microliter. Low platelet counts raise the risk of bleeding and bruising, so the client should be monitored for bleeding precautions."
+  },
+  {
+    "id": 403,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal white blood cell (WBC) count range?",
+    "back": "About 4,500 to 11,000 per microliter. An elevated WBC count often signals infection or inflammation and should be reported."
+  },
+  {
+    "id": 404,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal international normalized ratio (INR) for a client not on warfarin?",
+    "back": "About 0.8 to 1.1. A client on warfarin therapy is usually kept within a therapeutic range of 2.0 to 3.0, and values above that raise bleeding risk."
+  },
+  {
+    "id": 405,
+    "domain": "reduction_of_risk_potential",
+    "front": "What lab value monitors warfarin therapy?",
+    "back": "PT and INR. The LPN reports signs of bleeding such as bruising, blood in urine or stool, or an INR result far outside the ordered therapeutic range."
+  },
+  {
+    "id": 406,
+    "domain": "reduction_of_risk_potential",
+    "front": "What lab value monitors heparin therapy?",
+    "back": "Activated partial thromboplastin time (aPTT). Excessive prolongation increases bleeding risk and should be reported to the RN or provider."
+  },
+  {
+    "id": 407,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal blood urea nitrogen (BUN) range?",
+    "back": "About 7 to 20 mg/dL. Elevated BUN can indicate dehydration or kidney impairment and should prompt further monitoring."
+  },
+  {
+    "id": 408,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal serum creatinine range?",
+    "back": "About 0.6 to 1.2 mg/dL. A rising creatinine suggests declining kidney function and warrants reporting."
+  },
+  {
+    "id": 409,
+    "domain": "reduction_of_risk_potential",
+    "front": "Client preparing for an MRI, what must the LPN screen for first?",
+    "back": "Any metal implants, pacemakers, or ferromagnetic devices in the body. Metal can be dangerous inside the strong magnetic field, so screening is done before the scan."
+  },
+  {
+    "id": 410,
+    "domain": "reduction_of_risk_potential",
+    "front": "Client prep before a contrast dye CT scan?",
+    "back": "Verify allergies to iodine or shellfish and check kidney function results. The LPN also confirms the client is well hydrated unless contraindicated."
+  },
+  {
+    "id": 411,
+    "domain": "reduction_of_risk_potential",
+    "front": "What must be checked before starting a blood transfusion?",
+    "back": "Two licensed staff members verify the client identity, blood type, and unit number against the order. Baseline vital signs are also obtained before starting."
+  },
+  {
+    "id": 412,
+    "domain": "reduction_of_risk_potential",
+    "front": "Signs of a transfusion reaction to report immediately?",
+    "back": "Fever, chills, hives, back pain, or shortness of breath. The transfusion is stopped immediately and the RN or provider is notified."
+  },
+  {
+    "id": 413,
+    "domain": "reduction_of_risk_potential",
+    "front": "How soon after starting a transfusion should the client be closely monitored?",
+    "back": "The first 15 minutes are the highest-risk period. The LPN stays with the client and rechecks vital signs during this window."
+  },
+  {
+    "id": 414,
+    "domain": "reduction_of_risk_potential",
+    "front": "Client prep before a colonoscopy?",
+    "back": "Bowel cleansing with a prescribed prep solution and a clear liquid diet the day before. The LPN confirms the client understands the prep and stays near a bathroom."
+  },
+  {
+    "id": 415,
+    "domain": "reduction_of_risk_potential",
+    "front": "Post-colonoscopy monitoring priority?",
+    "back": "Watch for abdominal pain, distention, or rectal bleeding, which could signal bowel perforation. Vital signs and level of consciousness are also monitored as sedation wears off."
+  },
+  {
+    "id": 416,
+    "domain": "reduction_of_risk_potential",
+    "front": "Client prep before a lumbar puncture?",
+    "back": "Position the client in a side-lying fetal position with the back arched, or sitting and leaning forward as ordered. The LPN reinforces the need to stay still during the procedure."
+  },
+  {
+    "id": 417,
+    "domain": "reduction_of_risk_potential",
+    "front": "Post-lumbar puncture positioning and monitoring?",
+    "back": "The client typically lies flat for a period as ordered to reduce the risk of a spinal headache. The LPN monitors for headache, leg numbness, or leakage at the site."
+  },
+  {
+    "id": 418,
+    "domain": "reduction_of_risk_potential",
+    "front": "What must be assessed before a paracentesis?",
+    "back": "Have the client void to empty the bladder and obtain baseline vital signs and abdominal girth. This reduces the risk of bladder injury and allows comparison after the procedure."
+  },
+  {
+    "id": 419,
+    "domain": "reduction_of_risk_potential",
+    "front": "Post-paracentesis complication to report?",
+    "back": "Signs of hypotension, dizziness, or a large sudden fluid loss from the abdomen. Fluid shifts can cause a drop in blood pressure that needs prompt reporting."
+  },
+  {
+    "id": 420,
+    "domain": "reduction_of_risk_potential",
+    "front": "Client prep before a thoracentesis?",
+    "back": "Position the client sitting upright and leaning forward over a bedside table. This position widens the space between the ribs for needle insertion."
+  },
+  {
+    "id": 421,
+    "domain": "reduction_of_risk_potential",
+    "front": "Post-thoracentesis complication to monitor for?",
+    "back": "Signs of pneumothorax such as sudden shortness of breath, sharp chest pain, or decreased breath sounds on the affected side. This must be reported immediately."
+  },
+  {
+    "id": 422,
+    "domain": "reduction_of_risk_potential",
+    "front": "Client prep before a cardiac catheterization?",
+    "back": "Confirm NPO status, check for allergies to contrast dye or shellfish, and mark peripheral pulses for baseline comparison. The client is informed a warm flushing feeling may occur during dye injection."
+  },
+  {
+    "id": 423,
+    "domain": "reduction_of_risk_potential",
+    "front": "Post-cardiac catheterization monitoring priority?",
+    "back": "Check the insertion site for bleeding or hematoma and assess distal pulses, color, and warmth of the limb. The affected leg is usually kept straight and immobile for a period."
+  },
+  {
+    "id": 424,
+    "domain": "reduction_of_risk_potential",
+    "front": "What complication follows a central line insertion that must be reported fast?",
+    "back": "Pneumothorax, signaled by sudden chest pain, shortness of breath, or absent breath sounds on one side. A chest x-ray is typically done to confirm line placement."
+  },
+  {
+    "id": 425,
+    "domain": "reduction_of_risk_potential",
+    "front": "Signs of infiltration at a peripheral IV site?",
+    "back": "Swelling, coolness, and pallor at the site with the infusion slowing or stopping. The IV should be stopped and the site assessed further."
+  },
+  {
+    "id": 426,
+    "domain": "reduction_of_risk_potential",
+    "front": "Signs of phlebitis at an IV site?",
+    "back": "Redness, warmth, tenderness, and a palpable cord along the vein. The IV is typically discontinued and a new site started elsewhere."
+  },
+  {
+    "id": 427,
+    "domain": "reduction_of_risk_potential",
+    "front": "Early signs of compartment syndrome after a cast application?",
+    "back": "Increasing pain unrelieved by medication, pain with passive stretch, and tingling or numbness distal to the cast. This is an emergency requiring immediate reporting."
+  },
+  {
+    "id": 428,
+    "domain": "reduction_of_risk_potential",
+    "front": "Signs of deep vein thrombosis (DVT) to report?",
+    "back": "Unilateral leg swelling, warmth, redness, and calf tenderness. The LPN never massages the area and reports findings right away because of embolism risk."
+  },
+  {
+    "id": 429,
+    "domain": "reduction_of_risk_potential",
+    "front": "Sign of a pulmonary embolism to report immediately?",
+    "back": "Sudden shortness of breath, sharp chest pain, and anxiety, sometimes with a fast heart rate. This is a medical emergency requiring immediate notification of the RN or provider."
+  },
+  {
+    "id": 430,
+    "domain": "reduction_of_risk_potential",
+    "front": "What change in a postoperative client's urine output must be reported?",
+    "back": "Urine output less than 30 mL per hour for two consecutive hours. This can indicate hypovolemia or kidney impairment."
+  },
+  {
+    "id": 431,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal urine output range for an adult?",
+    "back": "About 30 to 60 mL per hour, or roughly 1 to 2 liters per day. Persistent low output should be reported to the RN."
+  },
+  {
+    "id": 432,
+    "domain": "reduction_of_risk_potential",
+    "front": "Early signs of internal hemorrhage after surgery?",
+    "back": "Restlessness, rising heart rate, falling blood pressure, and cool clammy skin. These findings often appear before an obvious drop in hemoglobin and must be reported quickly."
+  },
+  {
+    "id": 433,
+    "domain": "reduction_of_risk_potential",
+    "front": "What is the first sign of shock the LPN often notices?",
+    "back": "A rising heart rate as the body compensates for reduced perfusion. Blood pressure may still be normal early on, so a fast pulse should not be ignored."
+  },
+  {
+    "id": 434,
+    "domain": "reduction_of_risk_potential",
+    "front": "Signs of an allergic reaction to a new medication?",
+    "back": "Hives, itching, swelling of the lips or face, or difficulty breathing. The medication is stopped and the reaction reported immediately."
+  },
+  {
+    "id": 435,
+    "domain": "reduction_of_risk_potential",
+    "front": "Signs of anaphylaxis requiring an emergency response?",
+    "back": "Sudden swelling of the airway, wheezing, dropping blood pressure, and a rapid weak pulse. Epinephrine and emergency assistance are needed right away."
+  },
+  {
+    "id": 436,
+    "domain": "reduction_of_risk_potential",
+    "front": "What lab test screens for infection severity and trend?",
+    "back": "White blood cell count and differential. A rising WBC trend along with fever suggests worsening infection and should be reported."
+  },
+  {
+    "id": 437,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal blood pH range on arterial blood gas?",
+    "back": "7.35 to 7.45. A value below 7.35 indicates acidosis and above 7.45 indicates alkalosis."
+  },
+  {
+    "id": 438,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal serum calcium range?",
+    "back": "About 8.5 to 10.5 mg/dL. Low calcium can cause muscle cramps and tingling around the mouth, which should be reported."
+  },
+  {
+    "id": 439,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal serum magnesium range?",
+    "back": "About 1.5 to 2.5 mEq/L. Both low and high magnesium can affect cardiac rhythm and muscle function."
+  },
+  {
+    "id": 440,
+    "domain": "reduction_of_risk_potential",
+    "front": "What is orthostatic hypotension and how is it checked?",
+    "back": "A significant drop in blood pressure when moving from lying to sitting or standing. Blood pressure and pulse are measured in each position, and the client is monitored for dizziness."
+  },
+  {
+    "id": 441,
+    "domain": "reduction_of_risk_potential",
+    "front": "Client complains of chest pain during an exercise stress test, what should the LPN do?",
+    "back": "Report the symptom immediately and the test is stopped. Chest pain during cardiac stress testing can signal significant ischemia."
+  },
+  {
+    "id": 442,
+    "domain": "reduction_of_risk_potential",
+    "front": "What should be checked before administering a contrast dye study in a client with diabetes on metformin?",
+    "back": "Metformin is often held before and after contrast studies because of the risk of contrast-induced kidney injury and lactic acidosis. The LPN confirms the provider's hold order."
+  },
+  {
+    "id": 443,
+    "domain": "reduction_of_risk_potential",
+    "front": "Signs of hemorrhage at a dialysis access site?",
+    "back": "Bright red bleeding, a weak or absent thrill or bruit, or a wet dressing. Direct pressure is applied and the finding reported immediately."
+  },
+  {
+    "id": 444,
+    "domain": "reduction_of_risk_potential",
+    "front": "What should the LPN monitor after a client receives conscious sedation for a procedure?",
+    "back": "Level of consciousness, respiratory rate, and oxygen saturation until the client returns to baseline. Sedation can depress breathing, so close monitoring is essential."
+  },
+  {
+    "id": 445,
+    "domain": "reduction_of_risk_potential",
+    "front": "Signs of increased intracranial pressure to report?",
+    "back": "Headache, vomiting without nausea, a widening pulse pressure, and a decreasing level of consciousness. This combination requires immediate notification of the provider."
+  },
+  {
+    "id": 446,
+    "domain": "reduction_of_risk_potential",
+    "front": "What vital sign pattern suggests Cushing's triad from rising intracranial pressure?",
+    "back": "Rising blood pressure, widening pulse pressure, and a slowing heart rate, often with irregular respirations. This is a late and ominous finding."
+  },
+  {
+    "id": 447,
+    "domain": "reduction_of_risk_potential",
+    "front": "What should be assessed before a client receives IV contrast for kidney function safety?",
+    "back": "Serum creatinine and BUN results. Impaired kidney function increases the risk of contrast-induced nephropathy."
+  },
+  {
+    "id": 448,
+    "domain": "reduction_of_risk_potential",
+    "front": "Normal specific gravity range for urine?",
+    "back": "About 1.005 to 1.030. Values outside this range can indicate dehydration, overhydration, or a kidney concentrating problem."
+  },
+  {
+    "id": 449,
+    "domain": "reduction_of_risk_potential",
+    "front": "What change after abdominal surgery suggests wound dehiscence?",
+    "back": "A sudden increase in serosanguineous drainage or the client reporting a feeling that something gave way, sometimes with visible separation of the wound edges. This requires immediate reporting and covering the area with a sterile moist dressing."
+  },
+  {
+    "id": 450,
+    "domain": "reduction_of_risk_potential",
+    "front": "What finding after a bronchoscopy must be reported right away?",
+    "back": "Stridor, difficulty swallowing, or blood-tinged sputum beyond a small expected amount. The gag reflex is also confirmed as returned before resuming oral intake."
+  },
+  {
+    "id": 451,
+    "domain": "physiological_adaptation",
+    "front": "Normal serum potassium range for an adult",
+    "back": "3.5 to 5.0 mEq/L. Values outside this range can affect cardiac rhythm and muscle function, so the LPN reports abnormal results to the RN or provider promptly."
+  },
+  {
+    "id": 452,
+    "domain": "physiological_adaptation",
+    "front": "A client with hyperkalemia may show what ECG change?",
+    "back": "Tall, peaked T waves are a classic early sign. The LPN should report this finding immediately since severe hyperkalemia can lead to dangerous arrhythmias."
+  },
+  {
+    "id": 453,
+    "domain": "physiological_adaptation",
+    "front": "Define hyponatremia",
+    "back": "A serum sodium level below 135 mEq/L. It can cause confusion, headache, muscle weakness, and in severe cases seizures."
+  },
+  {
+    "id": 454,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a client with heart failure has 3+ pitting edema in both legs. What should the LPN do first?",
+    "back": "Elevate the legs, restrict fluid and sodium per the care plan, and document the finding. Daily weights are also important to track fluid retention over time."
+  },
+  {
+    "id": 455,
+    "domain": "physiological_adaptation",
+    "front": "What is the normal pH range of arterial blood?",
+    "back": "7.35 to 7.45. A pH below 7.35 indicates acidosis, and a pH above 7.45 indicates alkalosis."
+  },
+  {
+    "id": 456,
+    "domain": "physiological_adaptation",
+    "front": "Term: respiratory acidosis",
+    "back": "A condition where carbon dioxide builds up in the blood due to poor gas exchange, causing the pH to drop below 7.35. It is often caused by hypoventilation, sedation, or lung disease."
+  },
+  {
+    "id": 457,
+    "domain": "physiological_adaptation",
+    "front": "What causes metabolic alkalosis in a client who vomits repeatedly?",
+    "back": "Loss of stomach acid (hydrochloric acid) through vomiting raises blood pH above 7.45. This also often causes hypokalemia and hypochloremia."
+  },
+  {
+    "id": 458,
+    "domain": "physiological_adaptation",
+    "front": "Signs of hypocalcemia the LPN should watch for",
+    "back": "Numbness and tingling around the mouth and fingers, muscle cramps, and a positive Trousseau or Chvostek sign. Severe cases can cause tetany or seizures."
+  },
+  {
+    "id": 459,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a client with a nasogastric tube on continuous suction is at risk for which imbalance?",
+    "back": "Metabolic alkalosis and hypokalemia, because gastric secretions rich in hydrogen and potassium ions are being removed from the body."
+  },
+  {
+    "id": 460,
+    "domain": "physiological_adaptation",
+    "front": "What is the normal range for serum sodium?",
+    "back": "135 to 145 mEq/L. Sodium is the major electrolyte controlling fluid balance in the extracellular space."
+  },
+  {
+    "id": 461,
+    "domain": "physiological_adaptation",
+    "front": "Define third spacing",
+    "back": "The shift of fluid out of the vascular space into a body cavity or tissue where it is not easily accessible, such as ascites. It can cause intravascular volume depletion even though total body fluid is normal or increased."
+  },
+  {
+    "id": 462,
+    "domain": "physiological_adaptation",
+    "front": "A client with COPD typically has what baseline acid-base status?",
+    "back": "Chronic respiratory acidosis that the kidneys compensate for by retaining bicarbonate, keeping the pH close to normal. This is why COPD clients often have a higher baseline CO2."
+  },
+  {
+    "id": 463,
+    "domain": "physiological_adaptation",
+    "front": "What is Kussmaul respiration and when is it seen?",
+    "back": "Deep, rapid breathing that occurs when the body tries to blow off carbon dioxide to compensate for metabolic acidosis. It is classically seen in diabetic ketoacidosis."
+  },
+  {
+    "id": 464,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a postoperative client has a urine output of 20 mL/hr for two hours. What should the LPN do?",
+    "back": "Report the low urine output to the RN or provider right away, since less than 30 mL/hr can signal dehydration, hypovolemia, or kidney injury."
+  },
+  {
+    "id": 465,
+    "domain": "physiological_adaptation",
+    "front": "Term: dependent edema",
+    "back": "Swelling that collects in the lowest parts of the body due to gravity, such as the feet and ankles when sitting or lying down. It is common in heart failure and venous insufficiency."
+  },
+  {
+    "id": 466,
+    "domain": "physiological_adaptation",
+    "front": "What lab value best reflects long-term blood glucose control?",
+    "back": "Hemoglobin A1c, which reflects average blood glucose over the past two to three months. A normal A1c is generally below 5.7 percent."
+  },
+  {
+    "id": 467,
+    "domain": "physiological_adaptation",
+    "front": "Early signs of hypoglycemia in a diabetic client",
+    "back": "Shakiness, sweating, confusion, and hunger. The LPN should check the blood glucose and give a fast-acting carbohydrate if the client is alert and able to swallow."
+  },
+  {
+    "id": 468,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a client with type 1 diabetes has fruity breath, deep rapid breathing, and confusion. What condition is suspected?",
+    "back": "Diabetic ketoacidosis. This is an emergency and the LPN should notify the RN or provider immediately and prepare for IV fluids and insulin therapy."
+  },
+  {
+    "id": 469,
+    "domain": "physiological_adaptation",
+    "front": "Define orthostatic hypotension",
+    "back": "A drop in blood pressure of at least 20 mmHg systolic or 10 mmHg diastolic when moving from lying to standing. It can cause dizziness and increases the risk of falls."
+  },
+  {
+    "id": 470,
+    "domain": "physiological_adaptation",
+    "front": "What does a low hemoglobin and hematocrit usually indicate?",
+    "back": "Anemia, meaning the blood has a reduced ability to carry oxygen. Common causes include blood loss, poor nutrition, or chronic disease."
+  },
+  {
+    "id": 471,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a client reports crushing chest pain radiating to the left arm. What is the priority LPN action?",
+    "back": "Notify the RN or provider immediately, keep the client calm and at rest, and prepare for oxygen and cardiac monitoring, since this suggests a possible myocardial infarction."
+  },
+  {
+    "id": 472,
+    "domain": "physiological_adaptation",
+    "front": "Term: angina pectoris",
+    "back": "Chest pain caused by reduced blood flow to the heart muscle, usually triggered by exertion or stress and relieved by rest or nitroglycerin."
+  },
+  {
+    "id": 473,
+    "domain": "physiological_adaptation",
+    "front": "What is the main difference between stable and unstable angina?",
+    "back": "Stable angina follows a predictable pattern and is relieved by rest or medication, while unstable angina occurs unexpectedly, lasts longer, and may signal an impending heart attack."
+  },
+  {
+    "id": 474,
+    "domain": "physiological_adaptation",
+    "front": "What blood pressure reading is generally used to define hypertension?",
+    "back": "A systolic reading of 130 mmHg or higher, or a diastolic reading of 80 mmHg or higher, on repeated measurements, per current guidelines."
+  },
+  {
+    "id": 475,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a client on furosemide reports leg cramps and weakness. What should the LPN suspect?",
+    "back": "Hypokalemia, since loop diuretics like furosemide cause potassium loss. The LPN should report the symptoms and monitor for related lab work."
+  },
+  {
+    "id": 476,
+    "domain": "physiological_adaptation",
+    "front": "Define pulmonary edema",
+    "back": "A buildup of fluid in the air sacs of the lungs, often caused by left-sided heart failure. It presents with shortness of breath, crackles on lung sounds, and pink frothy sputum in severe cases."
+  },
+  {
+    "id": 477,
+    "domain": "physiological_adaptation",
+    "front": "What is the difference between left-sided and right-sided heart failure symptoms?",
+    "back": "Left-sided heart failure causes fluid backup into the lungs, leading to shortness of breath and crackles. Right-sided heart failure causes fluid backup into the body, leading to peripheral edema and jugular vein distention."
+  },
+  {
+    "id": 478,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a client with a deep vein thrombosis in the calf. What should the LPN avoid doing?",
+    "back": "Avoid massaging or vigorously rubbing the affected leg, since this can dislodge the clot and cause a pulmonary embolism."
+  },
+  {
+    "id": 479,
+    "domain": "physiological_adaptation",
+    "front": "What are common signs of a pulmonary embolism?",
+    "back": "Sudden shortness of breath, sharp chest pain that worsens with breathing, and a rapid heart rate. This is a medical emergency requiring immediate notification of the RN or provider."
+  },
+  {
+    "id": 480,
+    "domain": "physiological_adaptation",
+    "front": "Term: hypovolemic shock",
+    "back": "A life-threatening condition caused by a significant loss of blood or fluid volume, leading to low blood pressure, rapid pulse, and poor organ perfusion."
+  },
+  {
+    "id": 481,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a client has a hemoglobin of 7.2 g/dL and reports fatigue and shortness of breath. What is the priority?",
+    "back": "Report the low hemoglobin to the RN or provider and monitor vital signs closely, since the client may need a blood transfusion and is at risk for cardiac strain."
+  },
+  {
+    "id": 482,
+    "domain": "physiological_adaptation",
+    "front": "What are early signs of a blood transfusion reaction?",
+    "back": "Fever, chills, hives, itching, and low back pain. The LPN should stop the transfusion immediately, keep the line open with normal saline, and notify the RN or provider."
+  },
+  {
+    "id": 483,
+    "domain": "physiological_adaptation",
+    "front": "Define acute kidney injury",
+    "back": "A sudden decline in kidney function that leads to a buildup of waste products in the blood. It can be caused by dehydration, medications, or reduced blood flow to the kidneys."
+  },
+  {
+    "id": 484,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a client with chronic kidney disease has a diet order restricting potassium. Why is this important?",
+    "back": "Damaged kidneys cannot excrete potassium efficiently, so excess dietary potassium can build up and cause dangerous cardiac arrhythmias."
+  },
+  {
+    "id": 485,
+    "domain": "physiological_adaptation",
+    "front": "What lab values indicate declining kidney function?",
+    "back": "Rising blood urea nitrogen (BUN) and creatinine levels, along with a decreasing glomerular filtration rate (GFR), suggest the kidneys are not filtering waste effectively."
+  },
+  {
+    "id": 486,
+    "domain": "physiological_adaptation",
+    "front": "Term: cirrhosis",
+    "back": "Chronic scarring of the liver that impairs its normal function, often caused by long-term alcohol use, hepatitis, or fatty liver disease. It can lead to ascites, jaundice, and bleeding problems."
+  },
+  {
+    "id": 487,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a client with cirrhosis becomes confused and has a flapping hand tremor. What condition is this?",
+    "back": "Hepatic encephalopathy, caused by a buildup of ammonia in the blood that the damaged liver cannot clear. It should be reported promptly."
+  },
+  {
+    "id": 488,
+    "domain": "physiological_adaptation",
+    "front": "What is the priority assessment for a client with suspected gastrointestinal bleeding?",
+    "back": "Monitor vital signs for signs of shock, such as low blood pressure and rapid pulse, and check stool or vomit for blood, which may appear black and tarry or bright red."
+  },
+  {
+    "id": 489,
+    "domain": "physiological_adaptation",
+    "front": "Define pancreatitis",
+    "back": "Inflammation of the pancreas that causes severe abdominal pain, nausea, and elevated amylase and lipase levels. Common causes include gallstones and heavy alcohol use."
+  },
+  {
+    "id": 490,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a client with a bowel obstruction has absent bowel sounds and abdominal distention. What should the LPN prepare for?",
+    "back": "The client will likely need to remain NPO and may need a nasogastric tube for decompression. The LPN should monitor for pain, vomiting, and vital sign changes."
+  },
+  {
+    "id": 491,
+    "domain": "physiological_adaptation",
+    "front": "What are common signs of a stroke the LPN should recognize immediately?",
+    "back": "Sudden facial drooping, arm weakness, and slurred speech (the FAST warning signs). This requires immediate notification of the RN or provider, since time affects treatment options."
+  },
+  {
+    "id": 492,
+    "domain": "physiological_adaptation",
+    "front": "Term: increased intracranial pressure",
+    "back": "A rise in pressure inside the skull, which can cause headache, vomiting, and a decreasing level of consciousness. Early recognition is important because it can quickly become life-threatening."
+  },
+  {
+    "id": 493,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a client having a seizure. What is the LPN's priority action?",
+    "back": "Protect the client from injury by clearing the area and cushioning the head, turn the client to the side if possible, and time the seizure. Never restrain the client or put anything in the mouth."
+  },
+  {
+    "id": 494,
+    "domain": "physiological_adaptation",
+    "front": "What is the normal range for fasting blood glucose?",
+    "back": "70 to 99 mg/dL is generally considered normal. Levels of 126 mg/dL or higher on two separate tests suggest diabetes."
+  },
+  {
+    "id": 495,
+    "domain": "physiological_adaptation",
+    "front": "Define compartment syndrome",
+    "back": "A dangerous buildup of pressure within a muscle compartment, often after a fracture or crush injury, that can cut off blood flow. Signs include severe pain, pallor, and diminished pulses in the affected limb."
+  },
+  {
+    "id": 496,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a client with a cast reports increasing pain not relieved by medication, along with numbness. What should the LPN suspect?",
+    "back": "Compartment syndrome. This is an emergency and must be reported to the RN or provider immediately, since delayed treatment can cause permanent tissue damage."
+  },
+  {
+    "id": 497,
+    "domain": "physiological_adaptation",
+    "front": "What is the difference between acute and chronic pain?",
+    "back": "Acute pain has a sudden onset and a clear cause that typically resolves with healing, while chronic pain lasts longer than three to six months and may continue after the original injury has healed."
+  },
+  {
+    "id": 498,
+    "domain": "physiological_adaptation",
+    "front": "Term: hypoxia",
+    "back": "A condition in which body tissues do not receive enough oxygen. Early signs include restlessness, confusion, and increased respiratory rate before more obvious signs like cyanosis appear."
+  },
+  {
+    "id": 499,
+    "domain": "physiological_adaptation",
+    "front": "Scenario: a client with pneumonia has an oxygen saturation of 88 percent on room air. What should the LPN do?",
+    "back": "Apply supplemental oxygen per the care plan or facility protocol, position the client upright to ease breathing, and notify the RN or provider of the low saturation."
+  },
+  {
+    "id": 500,
+    "domain": "physiological_adaptation",
+    "front": "What is the general goal of illness management education for a client with a chronic condition?",
+    "back": "Help the client understand their condition, recognize warning signs that need medical attention, and follow the treatment plan to prevent complications and hospital readmission."
+  }
+]
